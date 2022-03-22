@@ -1,7 +1,7 @@
 # 定制版应用收藏
 
 #### 介绍
-- 简单理解就是特殊渠道的A官方PP
+- 简单理解就是特别渠道的官方APP
 - [浅谈定制版应用](https://mp.weixin.qq.com/s/i7ADjqlF30SgoZi6cXUFOw)
 - [定制版应用收藏](https://mp.weixin.qq.com/s/AO4ZUeq75rUJBn3yicLXoA)
 
