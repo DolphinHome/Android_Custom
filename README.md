@@ -1,9 +1,12 @@
 # 定制版应用收藏
 
 #### 介绍
-- 收藏一些特别的官方APP版本
-- 部分好用的版本
+- 简单理解就是特殊渠道的A官方PP
+- [浅谈定制版应用](https://mp.weixin.qq.com/s/i7ADjqlF30SgoZi6cXUFOw)
+- [定制版应用收藏](https://mp.weixin.qq.com/s/AO4ZUeq75rUJBn3yicLXoA)
 
-#### 更新周期
-- 随机更新
-- 公众号催更
+#### 更新动态
+- 请查看公众号「百分之千」
+
+#### 常见问题
+- [一般解决方案](https://mp.weixin.qq.com/s/oWHgLMRxYnmcRqTJq_8zvg)
