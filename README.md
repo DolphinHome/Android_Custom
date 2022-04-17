@@ -1,8 +1,8 @@
 # 定制版应用收藏
 
-#### 完整列表
+#### 完整目录
 
-[点击这里查看完整列表](https://gitee.com/ww3w/dzb/blob/master/0.md)
+[点击这里查看所有 **定制版应用** ](https://gitee.com/ww3w/dzb/blob/master/0.md)
 
 #### 介绍
 
