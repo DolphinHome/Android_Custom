@@ -18,4 +18,4 @@
 
 #### 常见问题
 
-- [一般解决方案](https://mp.weixin.qq.com/s/oWHgLMRxYnmcRqTJq_8zvg)
+- [解决方案](https://mp.weixin.qq.com/s/ct-giDYHdF3lxh6xEkqELQ)`降级方法以及一些问题的解决方法`
