@@ -4,7 +4,7 @@
 ## 两个目录
 
 - [**「定制版APP」目录** ](https://gitee.com/ww3w/dzb/blob/master/0.md)
-> 提供详细的定制版APP目录，其中还包括定制版APP推荐以及读者反馈
+> 提供所有定制版APP的各个版本，其中还包括定制版APP推荐以及读者反馈
 
 - [**「版本拐点」目录** ](https://gitee.com/ww3w/dzb/blob/master/1.md)
 > 根据测试结果，整理出有明显特征的特定版本，并提供特征说明和下载地址
