@@ -14,7 +14,7 @@
 
 [ **定制版APP更新  vol.23** ](https://mp.weixin.qq.com/s/lD54XrZ6hDt9ToMMTXflbA)
 
-[ **版本拐点，根治版本选择困难症** ](https://gitee.com/ww3w/dzb/blob/master/1.md)
+[ **版本拐点，根治版本选择困难症** ](https://gitee.com/ww3w/dzb/blob/master/content.md)
 
 [**参与讨论，发表你的见解**](https://mp.weixin.qq.com/s/Spd1G3vg8nMN0nVQ7zllzQ)  |  [**社区直达**](https://txc.qq.com/products/440008)    :fa-thumbs-up: 
 
