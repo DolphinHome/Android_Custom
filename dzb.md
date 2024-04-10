@@ -9,12 +9,12 @@
 
 ![阅读量](https://img.shields.io/badge/10%E4%B8%87+-%E9%98%85%E8%AF%BB%E9%87%8F-brightgreen.svg?logo=wechat&style=flat-square) ![收藏量](https://img.shields.io/badge/1.29%E4%B8%87%E6%94%B6%E8%97%8F-%E9%85%B7%E5%AE%89-brightgreen.svg?logo=android&style=flat-square) ![搜索引擎](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83%E5%AE%9A%E5%88%B6%E7%89%88-Search-389CFB.svg?logo=Microsoftbing&style=flat-square) ![微信搜索](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83-%E6%90%9C%E4%B8%80%E6%90%9C-FA5151.svg?logo=wechat&style=flat-square)
 
-> 最后更新于 2024-04-10 21:15
+> 最后更新于 2024-04-10 21:45
 
 
 [ **定制版APP更新  vol.23** ](https://mp.weixin.qq.com/s/lD54XrZ6hDt9ToMMTXflbA)
 
-[ **版本拐点，根治版本选择困难症** ](https://gitee.com/ww3w/dzb/blob/master/content.md)
+[ **版本拐点，根治版本选择困难症** ](https://gitee.com/ww3w/dzb/blob/master/bbk.md)
 
 [**参与讨论，发表你的见解**](https://mp.weixin.qq.com/s/Spd1G3vg8nMN0nVQ7zllzQ)  |  [**社区直达**](https://txc.qq.com/products/440008)    :fa-thumbs-up: 
 
