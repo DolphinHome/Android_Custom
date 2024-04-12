@@ -9,7 +9,7 @@
 
 ![阅读量](https://img.shields.io/badge/10%E4%B8%87+-%E9%98%85%E8%AF%BB%E9%87%8F-brightgreen.svg?logo=wechat&style=flat-square) ![收藏量](https://img.shields.io/badge/1.29%E4%B8%87%E6%94%B6%E8%97%8F-%E9%85%B7%E5%AE%89-brightgreen.svg?logo=android&style=flat-square) ![搜索引擎](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83%E5%AE%9A%E5%88%B6%E7%89%88-Search-389CFB.svg?logo=Microsoftbing&style=flat-square) ![微信搜索](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83-%E6%90%9C%E4%B8%80%E6%90%9C-FA5151.svg?logo=wechat&style=flat-square)
 
-> 最后更新于 2024-04-10 21:45
+> 最后更新于 2024-04-12 21:00
 
 
 [ **定制版APP更新  vol.23** ](https://mp.weixin.qq.com/s/lD54XrZ6hDt9ToMMTXflbA)
@@ -2161,6 +2161,9 @@ OPPO Find X5 Pro 定制版 v10.46.30 •
 
 红米K50 Pro 定制版 v10.46.30 •
 
+小米 14 Ultra 定制版 v11.9.20 • 🔥
+> 安装包体积仅 38M，Target API 33
+
 
 ## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/wph.svg) 唯品会
 
@@ -2176,8 +2179,9 @@ OPPO Find X5 Pro 定制版 v10.46.30 •
 
 小米11 定制版 v8.7.7 .5.1 
 
-小米 14 Ultra 定制版 v11.9.20 • 🔥
-> 安装包体积仅 38M，Target API 33
+小米 14 Ultra 定制版 v8.7.79.13.1 • 🔥
+> Target API 33
+
 
 ## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/58.svg) 58同城
 
