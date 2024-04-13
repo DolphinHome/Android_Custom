@@ -5,7 +5,7 @@
 
 > 目前还处于建设阶段，后续可能会增加APP类型丶个人点评和图文来源等核心内容
 
-![userviews](https://img.shields.io/badge/5%E4%B8%87+-%E8%AE%BF%E9%97%AE%E4%BA%BA%E6%AC%A1-brightgreen.svg?logo=gitee&style=flat-square)![Download](https://img.shields.io/badge/20%E4%B8%87+-%E4%B8%8B%E8%BD%BD%E9%87%8F-brightgreen.svg?logo=android&style=flat-square)![Bing](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83%E5%AE%9A%E5%88%B6%E7%89%88-Search-389CFB.svg?logo=Microsoftbing&style=flat-square)![Wechat](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83-%E6%90%9C%E4%B8%80%E6%90%9C-FA5151.svg?logo=wechat&style=flat-square)
+![userviews](https://img.shields.io/badge/5%E4%B8%87+-%E8%AE%BF%E9%97%AE%E4%BA%BA%E6%95%B0-brightgreen.svg?logo=gitee&style=flat-square)![Download](https://img.shields.io/badge/30%E4%B8%87+-%E4%B8%8B%E8%BD%BD%E9%87%8F-brightgreen.svg?logo=android&style=flat-square)![Bing](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83%E5%AE%9A%E5%88%B6%E7%89%88-Search-389CFB.svg?logo=Microsoftbing&style=flat-square)![Wechat](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83-%E6%90%9C%E4%B8%80%E6%90%9C-FA5151.svg?logo=wechat&style=flat-square)
 
 > 最后更新于 2024-04-13 20:48
 
@@ -37,7 +37,7 @@
  **Play版 v7.0.3** 
 > 需要注意的是，以下所有版本均指的是 **正式版本** ，而非测试版本
 
->  7.0.3 至 8.0.21 之间的全版本特征请查看这篇图文：[微信版本评测2.0](https://mp.weixin.qq.com/s/QupTecAxrb9q4V5n1PfqYQ)
+>  7.0.3 至 8.0.21 之间的全版本特征请查看这篇图文：[微信版本评测 2.0](https://mp.weixin.qq.com/s/QupTecAxrb9q4V5n1PfqYQ)
 
  **Play版 v7.0.18** 
 > 最后一个没有 **订阅号推荐广告** 的版本
@@ -384,7 +384,7 @@
 **Android版 v6.42.1** 
 > 最后一个没有 **上下滑动刷视频** 功能的版本，这版能有效阻断视频推荐的干扰，[原文链接](https://txc.qq.com/products/440008/post/170054828196350979/)
 
-**Android版 v7.56.0** 
+**Android版 v7.56.0**  ![beiyong](https://gitee.com/ww3w/dzb/raw/master/icons/beiyong.svg) 
 > 第一个将 Target API 升级到 **33** 的版本，此前版本的 **API级别** 均小于等于 29
 
 **Android版 v7.82.0** 
@@ -488,7 +488,7 @@
  **IOS版 v5.0.4** 
 > 第一个支持  **iOS 14 Widget**  的版本，可以在桌面添加 **近期阅读书籍** 和 **读书时长图表** 小组件
 
- **IOS版 v5.4.8** 
+ **IOS版 v5.4.8**  ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg) 
 > 底栏「发现」改版前的最后一个版本，后续版本添加了各种垃圾内容
 
  **IOS版 v6.2.0** 
@@ -531,7 +531,7 @@
 ---
 
  **Play版 v9.1.9466**   ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg)
-> 最后一个 **Play商店** 版本，无广告，不升级，日常占用100M以内，[图文测评](https://mp.weixin.qq.com/s/qmUDm8bCVgvAgujEcB-dXw)
+> 最后一个 **Play** 版本，无广告，不升级，日常占用 100M 以内，[图文测评](https://mp.weixin.qq.com/s/qmUDm8bCVgvAgujEcB-dXw)
 
  **Windows版 v3.0.1727** 
 > 最后一个 **没有广告** 的版本，[下载地址](https://download.voicecloud.cn/200ime/iFlyIME_Setup3.0.1727.exe) 
