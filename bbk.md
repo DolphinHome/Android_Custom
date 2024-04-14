@@ -3,11 +3,11 @@
 
 > 此项目主要是用于标记那些有明显特征的版本，以此来解决历史版本选择困难的问题
 
-> 目前还处于建设阶段，后续可能会增加APP类型丶个人点评和图文来源等核心内容
+> 目前还处于建设阶段，后续可能会增加 APP 类型丶个人点评和图文来源等核心内容
 
 ![userviews](https://img.shields.io/badge/5%E4%B8%87+-%E8%AE%BF%E9%97%AE%E4%BA%BA%E6%95%B0-brightgreen.svg?logo=gitee&style=flat-square)![Download](https://img.shields.io/badge/30%E4%B8%87+-%E4%B8%8B%E8%BD%BD%E9%87%8F-brightgreen.svg?logo=android&style=flat-square)![Bing](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83%E5%AE%9A%E5%88%B6%E7%89%88-Search-389CFB.svg?logo=Microsoftbing&style=flat-square)![Wechat](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83-%E6%90%9C%E4%B8%80%E6%90%9C-FA5151.svg?logo=wechat&style=flat-square)
 
-> 最后更新于 2024-04-13 20:48
+> 最后更新于 2024-04-14 17:26
 
 [**定制版APP目录**](https://gitee.com/ww3w/dzb/blob/master/dzb.md)
 
@@ -533,6 +533,11 @@
  **Play版 v9.1.9466**   ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg)
 > 最后一个 **Play** 版本，无广告，不升级，日常占用 100M 以内，[图文测评](https://mp.weixin.qq.com/s/qmUDm8bCVgvAgujEcB-dXw)
 
+**Android版 v13.0.1**  ![beiyong](https://gitee.com/ww3w/dzb/raw/master/icons/beiyong.svg) 
+> 第一个支持 **生成式 AI** 功能的版本，包括但不限于 AI 助手丶AI 皮肤
+
+> 第一个将 **Target API** 升级到 30 的版本，发布于 2023 年 11 月，[下载地址](https://pan.lanzout.com/iOVTf1v44wcf)
+
  **Windows版 v3.0.1727** 
 > 最后一个 **没有广告** 的版本，[下载地址](https://download.voicecloud.cn/200ime/iFlyIME_Setup3.0.1727.exe) 
 
@@ -787,6 +792,10 @@
 **Play版 v8.0.8**  ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg)
 > 最后一个可使用部分会员功能同时相当简洁的版本，[图文测评](https://mp.weixin.qq.com/s/pCYXHQdR-Yu47df1pZmkYA)
 
+
+**Android版 v8.5.9.1**  ![beiyong](https://gitee.com/ww3w/dzb/raw/master/icons/beiyong.svg) 
+> 第一个将  **Target API** 升级到 33 的版本，发布于 2022 年 12 月，[下载地址 ](https://pan.lanzout.com/ioo8C1v46fqj)
+
 **Android版 v8.8.24**  ![weixian](https://gitee.com/ww3w/dzb/raw/master/icons/weixian.svg)  
 > 此版本被工信部点名通报，通报理由：开屏信息窗口“乱跳转”，误导用户，[原文链接](https://www.miit.gov.cn/jgsj/xgj/gzdt/art/2024/art_a6f9db30756c4464804355afb64723ff.html)
 
@@ -889,6 +898,9 @@
 > 最后一个支持 **单列卡片流** 的版本，后续版本全是双列瀑布流，[图文测评](https://mp.weixin.qq.com/s/kf6SYaFq6kYOHggkefqUfw)
 
 > 附什么值得买 Play 版本合集：[下载地址](https://pan.lanzout.com/b0cy3gthc)
+
+**Android版 v10.6.15**  ![beiyong](https://gitee.com/ww3w/dzb/raw/master/icons/beiyong.svg) 
+> 第一个将 **Target API** 升级到 33 的版本，[下载地址](https://pan.lanzout.com/i6fFy1v47m7i)
 
  **IOS版 v9.9.12**  ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg)
 > 最后一个支持 **单列卡片流** 的版本，后续版本升级为双列瀑布流
