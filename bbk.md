@@ -7,7 +7,7 @@
 
 ![userviews](https://img.shields.io/badge/5%E4%B8%87+-%E8%AE%BF%E9%97%AE%E4%BA%BA%E6%95%B0-brightgreen.svg?logo=gitee&style=flat-square)![Download](https://img.shields.io/badge/30%E4%B8%87+-%E4%B8%8B%E8%BD%BD%E9%87%8F-brightgreen.svg?logo=android&style=flat-square)![Bing](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83%E5%AE%9A%E5%88%B6%E7%89%88-Search-389CFB.svg?logo=Microsoftbing&style=flat-square)![Wechat](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83-%E6%90%9C%E4%B8%80%E6%90%9C-FA5151.svg?logo=wechat&style=flat-square)
 
-> 最后更新于 2024-04-14 17:26
+> 最后更新于 2024-04-16 11:39
 
 [**定制版APP目录**](https://gitee.com/ww3w/dzb/blob/master/dzb.md)
 
@@ -215,6 +215,9 @@
 > 第一个支持 **短视频长按倍速** 和 **短视频图片评论** 的版本
 
 > 值得注意的是，该版本已经移除了创建文本子频道的功能
+
+**Android版 v9.0.35**
+> 第一个移除掉 **旧版 QQ 频道布局** 的版本，请谨慎更新
 
 > 附一个 QQ 国内版本合集：[下载地址](https://pan.lanzoui.com/b0czwx5ha)
 
