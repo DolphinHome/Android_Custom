@@ -7,7 +7,7 @@
 
 ![userviews](https://img.shields.io/badge/5%E4%B8%87+-%E8%AE%BF%E9%97%AE%E4%BA%BA%E6%95%B0-brightgreen.svg?logo=gitee&style=flat-square)![Download](https://img.shields.io/badge/30%E4%B8%87+-%E4%B8%8B%E8%BD%BD%E9%87%8F-brightgreen.svg?logo=android&style=flat-square)![Bing](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83%E5%AE%9A%E5%88%B6%E7%89%88-Search-389CFB.svg?logo=Microsoftbing&style=flat-square)![Wechat](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83-%E6%90%9C%E4%B8%80%E6%90%9C-FA5151.svg?logo=wechat&style=flat-square)
 
-> 最后更新于 2024-04-16 11:39
+> 最后更新于 2024-04-19 17:10
 
 [**定制版APP目录**](https://gitee.com/ww3w/dzb/blob/master/dzb.md)
 
@@ -475,6 +475,17 @@
 **IOS版 v7.0.0**  ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg)
 > 最后一个 **相对简洁且能正常使用** 的版本
 
+## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/hupu.svg) 虎扑
+
+---
+
+ **Play版 v7.3.35.11889**
+> 最后一个 **Google Play** 的版本，没有广告，相当简洁，[图文测评](https://mp.weixin.qq.com/s/z0XI_kJDF7xfkkGL-JA3fA) 
+
+ **Android版 v8.0.14.07067**  ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg) 
+> 第一个将 **Target API** 升级到 30 的版本，发布于 2022 年 7 月，[下载地址](https://pan.lanzout.com/iRfUA1vp7glc) 
+
+
 ## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/wxread.svg) 微信读书
 
 ---
@@ -482,7 +493,7 @@
  **Play版 v5.1.1**  ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg)
 > 最后一个无 **多余功能** 且广告极少的 Play 版本，[图文测评](https://mp.weixin.qq.com/s/eAMc2iK1smgyi_8ccXH_ng)，[下载地址](https://pan.lanzout.com/if0si014j20h)
 
- **Android版 v7.1.0**  ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/beiyong.svg) 
+ **Android版 v7.1.0**  ![beiyong](https://gitee.com/ww3w/dzb/raw/master/icons/beiyong.svg) 
 > 第一个将 **Target API** 升级到 33 的版本，发布于 2022 年 11 月，[下载地址](https://pan.lanzout.com/izxEo1uz3v2d) 
 
  **IOS版 v4.3.0** 
