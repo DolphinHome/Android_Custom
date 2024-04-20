@@ -9,7 +9,7 @@
 
 ![阅读量](https://img.shields.io/badge/10%E4%B8%87+-%E9%98%85%E8%AF%BB%E9%87%8F-brightgreen.svg?logo=wechat&style=flat-square) ![收藏量](https://img.shields.io/badge/1.29%E4%B8%87%E6%94%B6%E8%97%8F-%E9%85%B7%E5%AE%89-brightgreen.svg?logo=android&style=flat-square) ![搜索引擎](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83%E5%AE%9A%E5%88%B6%E7%89%88-Search-389CFB.svg?logo=Microsoftbing&style=flat-square) ![微信搜索](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83-%E6%90%9C%E4%B8%80%E6%90%9C-FA5151.svg?logo=wechat&style=flat-square)
 
-> 最后更新于 2024-04-16 11:35
+> 最后更新于 2024-04-20 16:05
 
 
 [ **定制版APP更新  vol.23** ](https://mp.weixin.qq.com/s/lD54XrZ6hDt9ToMMTXflbA)
@@ -1321,18 +1321,21 @@ MIUI定制版 v4.0.1 .3
 
 魅族定制版 v10.4.5 ••
 
-三星定制版 v12.5.5.8 • 🔥
-> 和普通版本不能共存，点击更新检测后会升级成为普通版本
-
-三星定制版 v12.9.0.8 •
-> 相比于普通版本，图标里多了三星字样，优化了三星设备的发热和耗电问题
-
 魅族定制版 v11.0.10 •
+> 新增歌曲排序功能
+
 > Target API 由 33 升级到 34，安装包体积增加到 150M 以上
 
 魅族定制版 v11.2.2 •
 
 魅族定制版 v11.2.3 • 🔥
+> @读者反馈 2024 年 4 月，魅族定制版本均不支持手机号登录
+
+三星定制版 v12.5.5.8 • 🔥
+> 和普通版本不能共存，点击更新检测后会升级成为普通版本
+
+三星定制版 v12.9.0.8 •
+> 相比于普通版本，图标里多了三星字样，优化了三星设备的发热和耗电问题
 
 
 ## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/xiami.svg) 虾米音乐
