@@ -7,7 +7,7 @@
 
 ![userviews](https://img.shields.io/badge/5%E4%B8%87+-%E8%AE%BF%E9%97%AE%E4%BA%BA%E6%95%B0-brightgreen.svg?logo=gitee&style=flat-square)![Download](https://img.shields.io/badge/30%E4%B8%87+-%E4%B8%8B%E8%BD%BD%E9%87%8F-brightgreen.svg?logo=android&style=flat-square)![Bing](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83%E5%AE%9A%E5%88%B6%E7%89%88-Search-389CFB.svg?logo=Microsoftbing&style=flat-square)![Wechat](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83-%E6%90%9C%E4%B8%80%E6%90%9C-FA5151.svg?logo=wechat&style=flat-square)
 
-> 最后更新于 2024-04-20 10:00
+> 最后更新于 2024-04-28 21:21
 
 [**定制版APP目录**](https://gitee.com/ww3w/dzb/blob/master/dzb.md)
 
@@ -264,7 +264,7 @@
 > 第一个支持 **一键保存Live** 的版本 
 
 **Android 国际版 v3.9.6**  ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg)
-> 最后一个支持 **视频下载** 的版本
+> 最后一个支持 **视频下载** 的版本，[下载地址](https://pan.lanzout.com/iaOpN1wq9kqf)
 
 **Android 国际版 v4.0.2**
 > 第一个加入 **听热点** 功能的版本
@@ -319,7 +319,7 @@
  **Play版 v2.8.0** 
 > 最后一个没有 **直播功能** 的版本
 
-> 2.8.0 至 3.18.1 之间的全版本特征请查看这篇图文：[Bilibili 版本测评 5.9](https://mp.weixin.qq.com/s/7Tkl6Biw8sg2B_g8gTFJQw)
+> 2.8.0 至 3.19.0 之间的全版本特征请查看这篇图文：[Bilibili 版本测评 7.0](https://mp.weixin.qq.com/s/Us6sGuAARZP6k6n0Zcfv7g)
 
  **Play版 v3.0.2** 
 > 第一个支持 投稿视频 **按播放量排序** 的版本
