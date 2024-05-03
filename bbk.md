@@ -921,7 +921,7 @@
  **Play版 v9.9.12**  ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg)
 > 最后一个支持 **单列卡片流** 的版本，后续版本全是双列瀑布流，[图文测评](https://mp.weixin.qq.com/s/kf6SYaFq6kYOHggkefqUfw)
 
-@读者反馈 该版本目前无法查看评论区图片
+> @读者反馈 该版本目前无法查看评论区图片
 
 > 附什么值得买 Play 版本合集：[下载地址](https://pan.lanzout.com/b0cy3gthc)
 
