@@ -7,7 +7,7 @@
 
 ![userviews](https://img.shields.io/badge/5%E4%B8%87+-%E8%AE%BF%E9%97%AE%E4%BA%BA%E6%95%B0-brightgreen.svg?logo=gitee&style=flat-square)![Download](https://img.shields.io/badge/30%E4%B8%87+-%E4%B8%8B%E8%BD%BD%E9%87%8F-brightgreen.svg?logo=android&style=flat-square)![Bing](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83%E5%AE%9A%E5%88%B6%E7%89%88-Search-389CFB.svg?logo=Microsoftbing&style=flat-square)![Wechat](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83-%E6%90%9C%E4%B8%80%E6%90%9C-FA5151.svg?logo=wechat&style=flat-square)
 
-> 最后更新于 2024-04-28 21:21
+> 最后更新于 2024-05-03 20:50
 
 [**定制版APP目录**](https://gitee.com/ww3w/dzb/blob/master/dzb.md)
 
@@ -124,6 +124,11 @@
 
 > 第一个将 **Target API** 升级到 34 的版本，此前版本的 API 级别均小于等于 30
 
+**Android版 v8.0.49**
+> 第一个将微信公众号 **互动功能** 固定在底部的版本，现在互动起来更加方便了
+
+> Target API 回到 30，修复了部分设备偶尔漏消息的问题
+
 > 附一个微信的国内历史版本合集：[下载地址](https://pan.lanzoui.com/b0czwr3qb)
 
  **IOS版 v8.0.14** 
@@ -165,6 +170,9 @@
 > 第一个支持将视频号里的视频进行 **投屏** 的版本，可将视频投放至其他设备上进行播放
 
 > 安装包体积略有减少，具体减少幅度约为 20M
+
+**IOS版 v8.0.49**
+> 第一个支持将聊天内容里的视频 **倍速播放** 的版本，另外，安装包体积继续缩小 5M
 
 
 ## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/QQ.svg) QQ
@@ -697,6 +705,8 @@
  **Play版 v7.4.2**  ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg)
 > 最后一个 **没有广告** 而且能够评论的版本，同时也没有开宝箱功能，[下载地址](https://pan.lanzout.com/iarcE04wwrcd)
 
+> @读者反馈 收藏的视频不能正常播放，其他功能均正常
+
 **Android版 v9.5.4**  ![beiyong](https://gitee.com/ww3w/dzb/raw/master/icons/beiyong.svg)
 > 第一个将 **Target API** 升级到 30 的版本，发布于 2023 年 11 月，[下载地址 ](https://pan.lanzoui.com/iPIiz1r1dhhc)
 
@@ -910,6 +920,8 @@
 
  **Play版 v9.9.12**  ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg)
 > 最后一个支持 **单列卡片流** 的版本，后续版本全是双列瀑布流，[图文测评](https://mp.weixin.qq.com/s/kf6SYaFq6kYOHggkefqUfw)
+
+@读者反馈 该版本目前无法查看评论区图片
 
 > 附什么值得买 Play 版本合集：[下载地址](https://pan.lanzout.com/b0cy3gthc)
 
