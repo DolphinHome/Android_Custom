@@ -1902,7 +1902,7 @@ OPPO Find X5 Pro 定制版 v8.29.0
 黑鲨深度定制版 v3.4.0.026.0201 • 
 > 该版本可能存在不能安装的问题，比如 MIUI 14 就不能安装
 
-## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/taobao.svg) 手机淘宝
+## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/taobao.svg) 淘宝
 
 ---
 
@@ -1999,7 +1999,7 @@ OPPO定制版 v10.24.0.3000 •
 > 图标里有文字标记，检测更新始终为最新版本
 
 
-## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/tianmao.svg) 手机天猫
+## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/tianmao.svg) 天猫
 
 ---
 
