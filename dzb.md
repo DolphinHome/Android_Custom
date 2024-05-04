@@ -1999,7 +1999,7 @@ OPPO定制版 v10.24.0.3000 •
 > 图标里有文字标记，检测更新始终为最新版本
 
 OPPO 定制版 v10.35.10
-> Target API 33,图标里有"百亿秒杀节"字样
+> Target API 33，图标里有"百亿秒杀节"字样
 
 
 ## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/tianmao.svg) 天猫
