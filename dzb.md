@@ -3,13 +3,13 @@
 ---
  
 
-> 1. 新增 小米 14 Ultra丶 荣耀 Magic6 Pro丶华为 Nova 12 Ultra丶vivo X100 Pro 等定制版APP
+> 1. 新增 华为 Pura 70 Ultra丶小米 14 Ultra丶 荣耀 Magic6 Pro丶vivo X100 Pro 等定制版APP
 > 2. 新增 **定制版APP** 下载地址，在「浅谈定制版应用」后面
 > 3. 所有文件均已转移到不限速不限登录的 **蓝奏云盘**
 
 ![阅读量](https://img.shields.io/badge/10%E4%B8%87+-%E9%98%85%E8%AF%BB%E9%87%8F-brightgreen.svg?logo=wechat&style=flat-square) ![收藏量](https://img.shields.io/badge/1.29%E4%B8%87%E6%94%B6%E8%97%8F-%E9%85%B7%E5%AE%89-brightgreen.svg?logo=android&style=flat-square) ![搜索引擎](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83%E5%AE%9A%E5%88%B6%E7%89%88-Search-389CFB.svg?logo=Microsoftbing&style=flat-square) ![微信搜索](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83-%E6%90%9C%E4%B8%80%E6%90%9C-FA5151.svg?logo=wechat&style=flat-square)
 
-> 最后更新于 2024-04-20 16:05
+> 最后更新于 2024-05-04 21:10
 
 
 [ **定制版APP更新  vol.23** ](https://mp.weixin.qq.com/s/lD54XrZ6hDt9ToMMTXflbA)
@@ -592,6 +592,9 @@ OPPO Find X5 Pro 天玑版 v8.32.0222.22022418 🔥
 
 Smartisan 定制版 v6.0.2923
 
+小米电视定制版 v6.0.2649
+> 全新图标，红色背景，金色文字，另外，图标里有 "新春版" 字样
+
 联想ZUI 定制版 v8.0.6855
 
 讯飞学习机定制版 v8.0.6441
@@ -885,8 +888,10 @@ HTC定制版 v10.3.3
 
 小米深度定制版 v3.5.0 •
 
-小米深度定制版 v3.6.4 • 🔥
+小米深度定制版 v3.6.4 •
 > Target API 30
+
+小米深度定制版 v3.7.0 • 🔥
 
 OPPO深度定制版 v1.4.2
 
@@ -1038,6 +1043,9 @@ MIUI定制版 v6.1.7 • 🔥
 ## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/iReader.svg) 掌阅
 
 ---
+
+中兴定制版 v1.3.1.1
+> 10 多年前的怀旧版本，支持多项自定义功能，测试 Android 14 依然可以正常使用
 
 酷派4 定制版 v3.1.0
 
@@ -1257,6 +1265,8 @@ OPPO手表定制版 v2.9.46
 
 荣耀定制版 v1.2.100 •
 
+荣耀定制版 v1.3.40 •
+
 
 ## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/qqmusic.svg) QQ音乐
 
@@ -1299,6 +1309,9 @@ MIUI定制版 v4.0.1 .3
 
 小米定制版 v4.7.2.8 •• 🔥
 
+小米定制版 v4.24.0.2 •
+> Target API 33
+
 魅族定制版 v9.6.0 ••
 
 魅族定制版 v9.6.1 •• 
@@ -1328,8 +1341,10 @@ MIUI定制版 v4.0.1 .3
 
 魅族定制版 v11.2.2 •
 
-魅族定制版 v11.2.3 • 🔥
+魅族定制版 v11.2.3 •
 > @读者反馈 2024 年 4 月，魅族定制版本均不支持手机号登录
+
+魅族定制版 v11.2.4 • 🔥
 
 三星定制版 v12.5.5.8 • 🔥
 > 和普通版本不能共存，点击更新检测后会升级成为普通版本
@@ -1833,8 +1848,11 @@ vivo X100 Pro 定制版 v15.12.22 • 🔥
 
 三星定制版 v10000.1.5
 
-三星定制版 v10000.2.0 • 🔥
-> 需要配合车联服务才能正常使用
+三星定制版 v10000.2.0 •
+
+三星定制版 v10000.2.2 • 🔥
+> 图标里有 "三星版" 字样，部分设备会提示需要更新车联服务
+
 
 ## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/mobile.svg) 中国移动
 
@@ -2103,7 +2121,9 @@ OPPO Find X2 Pro 定制版 v4.67.2 🔥
 
 官方内部版 v7.2.0 ••
 
-官方内部版 v7.5.0 •• 🔥
+官方内部版 v7.5.0 ••
+
+官方内部版 v7.7.0 •• 🔥
 > 没有开屏广告，没有多多视频，没有拼小圈，安装包仅 2.6M
 
 OPPO Find X5 Pro 定制版 v5.66.1 •
@@ -2345,6 +2365,9 @@ OPPO定制版 v10.2.53.7000 • 🔥
 
 华为深度定制版 v11.0.56 • 🔥
 > 依然用的是原图标，图标里没有广告文字
+
+华为深度定制版 v11.0.77 • 🔥
+> 首次启用新图标的版本，与此同时，图标里带有经典版字样
 
 荣耀定制版 v11.0.43 •
 
