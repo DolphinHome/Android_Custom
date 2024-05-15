@@ -5,9 +5,9 @@
 
 > 目前还处于建设阶段，后续可能会增加 APP 类型丶个人点评和图文来源等核心内容
 
-![userviews](https://img.shields.io/badge/5%E4%B8%87+-%E8%AE%BF%E9%97%AE%E4%BA%BA%E6%95%B0-brightgreen.svg?logo=gitee&style=flat-square)![Download](https://img.shields.io/badge/30%E4%B8%87+-%E4%B8%8B%E8%BD%BD%E9%87%8F-orange.svg?logo=DocuSign&style=flat-square)![Bing](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83%E5%AE%9A%E5%88%B6%E7%89%88-Search-389CFB.svg?logo=Microsoftbing&style=flat-square)![Wechat](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83-%E6%90%9C%E4%B8%80%E6%90%9C-FA5151.svg?logo=wechat&style=flat-square)
+![userviews](https://img.shields.io/badge/5%E4%B8%87+-%E8%AE%BF%E9%97%AE%E4%BA%BA%E6%95%B0-brightgreen.svg?logo=gitee&style=flat-square)![Download](https://img.shields.io/badge/30%E4%B8%87+-%E4%B8%8B%E8%BD%BD%E9%87%8F-FFCC22.svg?logo=DocuSign&style=flat-square)![Bing](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83%E5%AE%9A%E5%88%B6%E7%89%88-Search-389CFB.svg?logo=Microsoftbing&style=flat-square)![Wechat](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83-%E6%90%9C%E4%B8%80%E6%90%9C-FA5151.svg?logo=wechat&style=flat-square)
 
-> 最后更新于 2024-05-08 14:30
+> 最后更新于 2024-05-15 10:50
 
 [**定制版APP目录**](https://gitee.com/ww3w/dzb/blob/master/dzb.md)
 
@@ -504,6 +504,9 @@
  **Android版 v7.1.0**  ![beiyong](https://gitee.com/ww3w/dzb/raw/master/icons/beiyong.svg) 
 > 第一个将 **Target API** 升级到 33 的版本，发布于 2022 年 11 月，[下载地址](https://pan.lanzout.com/izxEo1uz3v2d) 
 
+ **Android版 v7.2.0**
+> 第一个支持 **微信扫码登录** 的版本，此前版本采用的登录方式是微信授权登录
+
  **IOS版 v4.3.0** 
 > 第一个适配 **深色模式** 的版本
 
@@ -773,7 +776,7 @@
 **Android版 v6.7.6.431**  ![beiyong](https://gitee.com/ww3w/dzb/raw/master/icons/beiyong.svg)
 > 第一个将 **Target API** 升级到 30 的版本，发布于 2023 年 12 月，[下载地址](https://pan.lanzoui.com/iBIgw1r1cozg)
 
- **IOS版 v5.2.5** 
+**IOS版 v5.2.5** 
 > 第一个可在夸克网盘添加 **磁力链接** 的版本 
 
 
@@ -1053,6 +1056,9 @@
 
 **Android版 v14.1.0** 
 > 第一个支持 **用户名备注** 的版本，再也不用担心关注的人改名了
+
+**Android版 v14.2.0** 
+> 第一个支持 **评论背景卡** 的版本，算是逐渐微博化了
 
 > 附一个酷安版本合集：[下载地址](https://pan.lanzoui.com/b0cy3gzvc)
 
