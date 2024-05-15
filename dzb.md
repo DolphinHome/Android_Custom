@@ -9,7 +9,7 @@
 
 ![阅读量](https://img.shields.io/badge/10%E4%B8%87+-%E9%98%85%E8%AF%BB%E9%87%8F-brightgreen.svg?logo=wechat&style=flat-square) ![收藏量](https://img.shields.io/badge/1.29%E4%B8%87%E6%94%B6%E8%97%8F-%E9%85%B7%E5%AE%89-brightgreen.svg?logo=android&style=flat-square) ![搜索引擎](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83%E5%AE%9A%E5%88%B6%E7%89%88-Search-389CFB.svg?logo=Microsoftbing&style=flat-square) ![微信搜索](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83-%E6%90%9C%E4%B8%80%E6%90%9C-FA5151.svg?logo=wechat&style=flat-square)
 
-> 最后更新于 2024-05-08 14:25
+> 最后更新于 2024-05-15 14:25
 
 
 [ **定制版APP更新  vol.23** ](https://mp.weixin.qq.com/s/lD54XrZ6hDt9ToMMTXflbA)
@@ -2199,6 +2199,8 @@ OPPO K5 定制版 v9.9.3
 华为 Nova 12 Ultra 定制版 v12.10.200 • 🔥
 > 安装包只有 12M，底栏只有两个功能按钮，没有任何广告
 
+华为 Pura 70 Ultra 定制版 v12.10.200 • 🔥
+
 小米 14 Ultra 定制版 v12.10.204 • 🔥
 > 安装包继续减少至 9.9M，功能上和华为定制版本并无差异
 
@@ -2891,6 +2893,10 @@ OPPO Find X5 Pro定制版 v8.3.27.9 • 🔥
 
 **我懂个App** [卸载高德吧！这些纯净版地图APP，比高德百度好用3倍 2023-01-03 18:00:00](http://b23.tv/RQLYPRh)
 
+**情风师兄** [这些极简版APP告诉你，短小精悍才是硬道理 2023-01-26 10:00:00](https://b23.tv/RXBtHtu)
+
 **阿虚同学** [简洁版地图来了！该有的一个不差，无广告真的爽极了 2023-07-08 20:00](https://mp.weixin.qq.com/s/bsU_bCxjnZVUBQrJ_l5ErQ)
+
+**好机友** [太爽了，这些简洁版App，能让你的手机变快2倍 2023-10-22 22:44](https://mp.weixin.qq.com/s/90ElVuVNd73bMdbirGwsTw)
 
 **晨钟酱Official** [让老旗舰机重回新生？请收好这份养老软件指南！ 2024-01-13 10:14:18](https://www.bilibili.com/video/BV1r94y1T7Xa/)
