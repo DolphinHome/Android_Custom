@@ -7,7 +7,7 @@
 
 ![userviews](https://img.shields.io/badge/5%E4%B8%87+-%E8%AE%BF%E9%97%AE%E4%BA%BA%E6%95%B0-brightgreen.svg?logo=gitee&style=flat-square)![Download](https://img.shields.io/badge/30%E4%B8%87+-%E4%B8%8B%E8%BD%BD%E9%87%8F-FFCC22.svg?logo=DocuSign&style=flat-square)![Bing](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83%E5%AE%9A%E5%88%B6%E7%89%88-Search-389CFB.svg?logo=Microsoftbing&style=flat-square)![Wechat](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83-%E6%90%9C%E4%B8%80%E6%90%9C-FA5151.svg?logo=wechat&style=flat-square)
 
-> 最后更新于 2024-05-22 18:55
+> 最后更新于 2024-05-23 16:45
 
 [**定制版APP目录**](https://gitee.com/ww3w/dzb/blob/master/dzb.md)
 
@@ -125,7 +125,7 @@
 > 第一个将 **Target API** 升级到 34 的版本，此前版本的 API 级别均小于等于 30
 
 **Android版 v8.0.49**
-> 第一个将微信公众号 **互动功能** 固定在底部的版本，发布两周后，很多旧版本基本上也被云控了
+> 第一个将微信公众号 **互动功能** 固定在底部的版本，该版本上线两周后，多数旧版本也被云控成相同样式了
 
 > Target API 回到 30，修复了部分设备偶尔漏消息的问题
 
