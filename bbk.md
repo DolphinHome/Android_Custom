@@ -7,7 +7,7 @@
 
 ![userviews](https://img.shields.io/badge/5%E4%B8%87+-%E8%AE%BF%E9%97%AE%E4%BA%BA%E6%95%B0-brightgreen.svg?logo=gitee&style=flat-square)![Download](https://img.shields.io/badge/30%E4%B8%87+-%E4%B8%8B%E8%BD%BD%E9%87%8F-FFCC22.svg?logo=DocuSign&style=flat-square)![Bing](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83%E5%AE%9A%E5%88%B6%E7%89%88-Search-389CFB.svg?logo=Microsoftbing&style=flat-square)![Wechat](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83-%E6%90%9C%E4%B8%80%E6%90%9C-FA5151.svg?logo=wechat&style=flat-square)
 
-> 最后更新于 2024-05-23 16:45
+> 最后更新于 2024-05-25 17:58
 
 [**定制版APP目录**](https://gitee.com/ww3w/dzb/blob/master/dzb.md)
 
@@ -943,8 +943,8 @@
 
 ---
 
-**Play版 v7.11.69**  ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg)
-> 最后一个 **Google Play** 版本，基本没有广告，Target API 33，[下载地址](https://pan.lanzoui.com/iEzCs1vqp79a)
+**Play版 v7.11.74**  ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg)
+> 最后一个 **Google Play** 版本，基本没有广告，Target API 33，[下载地址](https://pan.lanzoui.com/iZVKk1zpecud)
 
  **Android版 v7.21.2** 
 > 能够领取粉丝团 **专属宝箱** 的最低版本，发布于 2020 年 09 月，安装包大小 73.41M，[图片预览](https://gitee.com/ww3w/dzb/raw/master/icons/huyatp.jpg)，[下载地址](https://pan.lanzout.com/ifCvo0yu0zaf)
