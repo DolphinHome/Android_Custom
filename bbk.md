@@ -808,7 +808,7 @@
 ---
 
 **Android版 v11.6.3** ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg)
-> 最后一个 **没有广告** 的版本，检测更新始终为最新版本，[下载地址](https://pan.lanzoui.com/iTqr71zz3m0h)
+> 最后一个 **没有广告** 的版本，[下载地址](https://pan.lanzoui.com/iTqr71zz3m0h)
 
 **IOS版 v11.6.1**  ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg)
 > 与 Android版 11.6.3 的功能和特性基本一致，可使用爱思全能版直接下载
