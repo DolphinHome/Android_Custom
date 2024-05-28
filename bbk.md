@@ -7,7 +7,7 @@
 
 ![userviews](https://img.shields.io/badge/5%E4%B8%87+-%E8%AE%BF%E9%97%AE%E4%BA%BA%E6%95%B0-brightgreen.svg?logo=gitee&style=flat-square)![Download](https://img.shields.io/badge/30%E4%B8%87+-%E4%B8%8B%E8%BD%BD%E9%87%8F-FFCC22.svg?logo=DocuSign&style=flat-square)![Bing](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83%E5%AE%9A%E5%88%B6%E7%89%88-Search-389CFB.svg?logo=Microsoftbing&style=flat-square)![Wechat](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83-%E6%90%9C%E4%B8%80%E6%90%9C-FA5151.svg?logo=wechat&style=flat-square)
 
-> 最后更新于 2024-05-25 17:58
+> 最后更新于 2024-05-28 12:15
 
 [**定制版APP目录**](https://gitee.com/ww3w/dzb/blob/master/dzb.md)
 
@@ -802,6 +802,19 @@
 **IOS版 v13.8.2**  ![weixian](https://gitee.com/ww3w/dzb/raw/master/icons/weixian.svg)  
 > 此版本被 **工信部** 点名通报，通报理由：开屏信息窗口“乱跳转”，误导用户，[原文链接](https://www.miit.gov.cn/jgsj/xgj/gzdt/art/2024/art_a6f9db30756c4464804355afb64723ff.html)
 
+
+## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/netdisk.svg) 百度网盘
+
+---
+
+**Android版 v11.6.3** ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg)
+> 最后一个 **没有广告** 的版本，检测更新始终为最新版本，[下载地址](https://pan.lanzoui.com/iTqr71zz3m0h)
+
+**IOS版 v11.6.1**  ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg)
+> 与 Android版 11.6.3 的功能和特性基本一致，可使用爱思全能版直接下载
+
+**IOS版 v11.27.0** 
+> 第一个支持 **AI字幕** 的版本
 
 
 ## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/eleme.svg) 饿了么
