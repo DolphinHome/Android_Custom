@@ -7,7 +7,7 @@
 
 ![userviews](https://img.shields.io/badge/5%E4%B8%87+-%E8%AE%BF%E9%97%AE%E4%BA%BA%E6%95%B0-brightgreen.svg?logo=gitee&style=flat-square)![Download](https://img.shields.io/badge/30%E4%B8%87+-%E4%B8%8B%E8%BD%BD%E9%87%8F-FFCC22.svg?logo=DocuSign&style=flat-square)![Bing](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83%E5%AE%9A%E5%88%B6%E7%89%88-Search-389CFB.svg?logo=Microsoftbing&style=flat-square)![Wechat](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83-%E6%90%9C%E4%B8%80%E6%90%9C-FA5151.svg?logo=wechat&style=flat-square)
 
-> 最后更新于 2024-05-28 12:15
+> 最后更新于 2024-05-30 12:28
 
 [**定制版APP目录**](https://gitee.com/ww3w/dzb/blob/master/dzb.md)
 
@@ -129,6 +129,10 @@
 
 > Target API 回到 30，修复了部分设备偶尔漏消息的问题
 
+**Android版 v8.0.50 beta**
+
+> 第一个支持收发视频 **倍速播放** 的版本，最高为 2 倍速 
+
 > 附一个微信的国内历史版本合集：[下载地址](https://pan.lanzoui.com/b0czwr3qb)
 
  **IOS版 v8.0.14** 
@@ -173,6 +177,10 @@
 
 **IOS版 v8.0.49**
 > 第一个支持将聊天内容里的视频 **倍速播放** 的版本，另外，安装包体积继续缩小 5M
+
+**IOS版 v8.0.50 beta**
+
+> 第一个支持任意 **邀请多人通话** 的版本，现在不需要先拉人进群聊了  
 
 
 ## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/QQ.svg) QQ
@@ -808,10 +816,10 @@
 ---
 
 **Android版 v11.6.3** ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg)
-> 最后一个 **没有广告** 的版本，[下载地址](https://pan.lanzoui.com/iTqr71zz3m0h)
+> 最后一个 **没有广告** 的版本，[图文测评](https://mp.weixin.qq.com/s/z5JD35UdOL0wqJillnZqzA)，[下载地址](https://pan.lanzoui.com/iTqr71zz3m0h)
 
 **IOS版 v11.6.1**  ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg)
-> 与 Android版 11.6.3 的功能和特性基本一致，可使用爱思全能版直接下载
+> 与 Android版 11.6.3 的功能和特性基本一致，可使用爱思全能版直接下载，[图文测评](https://mp.weixin.qq.com/s/z5JD35UdOL0wqJillnZqzA)
 
 **IOS版 v11.27.0** 
 > 第一个支持 **AI字幕** 的版本
