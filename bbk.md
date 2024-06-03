@@ -9,7 +9,7 @@
 
 > 更新内容: 新增微信的 Beta 版本更新细节，新增百度网盘的推荐版本，含图文测评
 
-> 最后更新于 2024-05-30 12:28
+> 最后更新于 2024-06-04 07:30
 
 [**定制版APP目录**](https://gitee.com/ww3w/dzb/blob/master/dzb.md)
 
@@ -341,7 +341,7 @@
  **Play版 v2.8.0** 
 > 最后一个没有 **直播功能** 的版本
 
-> 2.8.0 至 3.19.0 之间的全版本特征请查看这篇图文：[Bilibili 版本测评 7.0](https://mp.weixin.qq.com/s/Us6sGuAARZP6k6n0Zcfv7g)
+> 2.8.0 至 3.19.0 之间的全版本特征请查看这篇图文：[Bilibili 版本测评 7.1.1](https://mp.weixin.qq.com/s/64ksDv64kHzleqsNxat8Og)
 
  **Play版 v3.0.2** 
 > 第一个支持 投稿视频 **按播放量排序** 的版本
