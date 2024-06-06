@@ -7,9 +7,13 @@
 
 ![userviews](https://img.shields.io/badge/5%E4%B8%87+-%E8%AE%BF%E9%97%AE%E4%BA%BA%E6%95%B0-brightgreen.svg?logo=gitee&style=flat-square)![Download](https://img.shields.io/badge/30%E4%B8%87+-%E4%B8%8B%E8%BD%BD%E9%87%8F-FFCC22.svg?logo=DocuSign&style=flat-square)![Bing](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83%E5%AE%9A%E5%88%B6%E7%89%88-Search-389CFB.svg?logo=Microsoftbing&style=flat-square)![Wechat](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83-%E6%90%9C%E4%B8%80%E6%90%9C-FA5151.svg?logo=wechat&style=flat-square)
 
-> 更新内容: 新增微信的 Beta 版本更新细节，新增百度网盘的推荐版本，含图文测评
+> 更新内容: 
 
-> 最后更新于 2024-06-06 12:55
+> 1. 新增微信的 Beta 版本更新细节，新增百度网盘的推荐版本，含图文测评
+
+> 2. 新增微信读书丶小红书丶支付宝的"版本通性"内容
+
+> 最后更新于 2024-06-06 23:02
 
 [**定制版APP目录**](https://gitee.com/ww3w/dzb/blob/master/dzb.md)
 
@@ -336,9 +340,9 @@
 
 **Google Play 版本** ![tong](https://gitee.com/ww3w/dzb/raw/master/icons/Tong.svg)
 
-> 底栏没有会员购和加号，各界面基本没有广告，没有更新提示，没有游戏中心丶商品丶课程和创作中心等功能
+> 底栏没有会员购和加号，广告极少，没有更新提示，没有游戏中心丶商品丶课程和创作中心等功能
 
-> 不支持 **IP属地** 显示，不支持 **合集** 功能，可使用 **动态** 功能
+> 可使用 **动态** 功能，不支持 **IP属地** 显示，UP 主主页没有 **合集** 功能
 
  **Play版 v2.8.0** 
 > 最后一个没有 **直播功能** 的版本
@@ -404,6 +408,8 @@
 ## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/xiaohongshu.svg) 小红书
 
 ---
+**Google Play 版本** ![tong](https://gitee.com/ww3w/dzb/raw/master/icons/Tong.svg)
+> 广告极少，分享内容到其他平台时显示为海外版，不支持购物功能
 
 **Play版 v7.94.0**  ![beiyong](https://gitee.com/ww3w/dzb/raw/master/icons/beiyong.svg)
 > 第一个支持 **图片评论** 的版本，[下载地址](https://pan.lanzout.com/ihF9v16vksmj)
@@ -507,12 +513,15 @@
 > 最后一个 **Google Play** 的版本，没有广告，相当简洁，[图文测评](https://mp.weixin.qq.com/s/z0XI_kJDF7xfkkGL-JA3fA) 
 
  **Android版 v8.0.14.07067**  ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg) 
-> 第一个将 **Target API** 升级到 30 的版本，发布于 2022 年 7 月，[下载地址](https://pan.lanzout.com/iRfUA1vp7glc) 
+> 第一个将 **Target API** 升级到 30 的版本，广告极少，发布于 2022 年 7 月，[下载地址](https://pan.lanzout.com/iRfUA1vp7glc) 
 
 
 ## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/wxread.svg) 微信读书
 
 ---
+
+ **All versions**  ![tong](https://gitee.com/ww3w/dzb/raw/master/icons/Tong.svg)
+> 非付费会员每月可导入 3 本本地书籍
 
  **Play版 v5.1.1**  ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg)
 > 最后一个无 **多余功能** 且广告极少的 Play 版本，[图文测评](https://mp.weixin.qq.com/s/eAMc2iK1smgyi_8ccXH_ng)，[下载地址](https://pan.lanzout.com/if0si014j20h)
@@ -859,6 +868,9 @@
 ## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/alipay.svg) 支付宝
 
 ---
+
+**Google Play 版本** ![tong](https://gitee.com/ww3w/dzb/raw/master/icons/Tong.svg)
+> 和国内商店相比，谷歌版本少了很多数据收集类 SDK
 
 **Play版 v10.3.80.9100**  ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg)  
 
