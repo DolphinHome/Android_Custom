@@ -520,7 +520,7 @@
 
 ---
 
- **All versions**  ![tong](https://gitee.com/ww3w/dzb/raw/master/icons/Tong.svg)
+ **All mobile versions**  ![tong](https://gitee.com/ww3w/dzb/raw/master/icons/Tong.svg)
 > 非付费会员每月可导入 3 本本地书籍
 
  **Play版 v5.1.1**  ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg)
