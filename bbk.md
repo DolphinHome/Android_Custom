@@ -898,7 +898,7 @@
 
 **Google Play 版本** ![tong](https://gitee.com/ww3w/dzb/raw/master/icons/Tong.svg)
 
-> 由于隐私原因，不能读取剪切板内容，且会在 Pictures 目录存储垃圾文件
+> 隐私原因，不能读取剪切板内容，可以复制淘口令到搜索框里直达
 
 **Play版 v10.19.0.2**
 > 第一个将 **Target API** 升级到 33 的版本，以往版本低于或等于 30，图标里有年货节标志
@@ -907,10 +907,7 @@
 > 很长一段时间内罕见的图标没有 **牛皮癣** 的版本，可指纹支付，Target API 28 
 
 **Android版 v10.30.0.4**  ![beiyong](https://gitee.com/ww3w/dzb/raw/master/icons/beiyong.svg)
-> 第一个将 **Target API** 升级到 33 的版本，图标有双 11 标志，后续版本又将 Target API 降到了 28，[下载地址](https://pan.lanzoui.com/iRn1K1g2o7of)
-
-**Android版 v10.30.9**
-> 发布于 2023 年 11 月 27 日的最新版本，Target API 33，[下载地址](https://pan.lanzoui.com/i9cYf1g2o9ve)
+> 第一个将 **Target API** 升级到 33 的版本，图标有双 11 标志，[下载地址](https://pan.lanzoui.com/iRn1K1g2o7of)
 
  **IOS版 v10.12.20** 
 > 最后一个首页商品详情页面没有 **瀑布流** 商品推荐的版本
