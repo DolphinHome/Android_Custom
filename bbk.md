@@ -868,7 +868,7 @@
 ---
 
 **Google Play 版本** ![tong](https://gitee.com/ww3w/dzb/raw/master/icons/Tong.svg)
-> 和国内商店相比，谷歌版本少了很多数据收集类 SDK
+> 和国内商店版本相比，谷歌版本少了很多数据收集类 SDK
 
 **Play版 v10.3.80.9100**  ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg)  
 
