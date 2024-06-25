@@ -9,9 +9,9 @@
 
 > 1. 新增微信的 Beta 版本更新细节，新增百度网盘的推荐版本，含图文测评
 
-> 2. 新增微信读书丶小红书丶支付宝的"版本通性"内容
+> 2. 新增微信读书丶小红书丶支付宝的"版本通性"内容，补充部分版本的更多信息
 
-> 最后更新于 2024-06-19 09:30
+> 最后更新于 2024-06-25 22:15
 
 [**定制版APP目录**](https://gitee.com/ww3w/dzb/blob/master/dzb.md)
 
@@ -32,11 +32,11 @@
 
 **Google Play 版本** ![tong](https://gitee.com/ww3w/dzb/raw/master/icons/Tong.svg)
 
->没有自家产品的推广内容，比如微信输入法丶QQ浏览器
+> 没有自家产品的推广内容，比如微信输入法丶QQ浏览器
 
->没有更新小红点，没有微信豆充值，没有朋友圈广告，没有游戏中心
+> 没有更新小红点，没有微信豆充值，没有朋友圈广告，没有游戏中心
 
->Target API 更高，权限要求和存储占用更加合理，推送服务更加统一
+> Target API 更高，可以只访问部分图片，权限要求和存储占用更加合理
 
  **Play版 v7.0.3** 
 
@@ -994,9 +994,12 @@
  **Play版 v16.4.9**  ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg)
 > 港区版本，没有广告，没有购物功能，[图文测评](https://mp.weixin.qq.com/s/3P0RgPkg7zuiYzHgrELYKA)，[下载地址](https://pan.lanzoui.com/iCTlz0i0z7bc)
 
+
 **Play版 v16.4.15**  
 
 > Target API 由 30 升级到 **33** ，去掉了上个版本首页左上角的 **直播** 功能，[图文测评](https://mp.weixin.qq.com/s/_Ncemb59jzGMtVTcBQWseg)
+
+> 视频不支持本地下载，部分用户登录账户时会提示版本过低
 
  **Android版 v17.7.0** 
 >  第一个支持 **倍速播放** 的版本，发布于 2021 年 09 月 14 日，[下载地址](https://www.wandoujia.com/apps/7461948/history_v170701)
