@@ -3,15 +3,13 @@
 ---
  
 
-> 1. 新增 华为 Pura 70 Ultra丶Redmi Turbo 3 丶小米 14 Ultra丶 荣耀 Magic6 Pro丶vivo X100 Pro 等定制版APP
+> 新增 华为 Pura 70 Ultra丶Redmi Turbo 3 丶小米 14 Ultra丶 荣耀 Magic6 Pro丶vivo X100 Pro 等定制版 APP
 
 
 ![阅读量](https://img.shields.io/badge/10%E4%B8%87+-%E9%98%85%E8%AF%BB%E9%87%8F-brightgreen.svg?logo=wechat&style=flat-square) ![收藏量](https://img.shields.io/badge/1.29%E4%B8%87%E6%94%B6%E8%97%8F-%E9%85%B7%E5%AE%89-brightgreen.svg?logo=android&style=flat-square) ![搜索引擎](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83%E5%AE%9A%E5%88%B6%E7%89%88-Search-389CFB.svg?logo=Microsoftbing&style=flat-square) ![微信搜索](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83-%E6%90%9C%E4%B8%80%E6%90%9C-FA5151.svg?logo=wechat&style=flat-square)
 
 > 最后更新于 2024-06-26 12:45
 
-
-[ **定制版 APP 更新  vol.23** ](https://mp.weixin.qq.com/s/lD54XrZ6hDt9ToMMTXflbA)
 
 [ **版本拐点，根治版本选择困难症** ](https://gitee.com/ww3w/dzb/blob/master/bbk.md)
 
