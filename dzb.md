@@ -13,9 +13,10 @@
 
 [ **版本拐点，根治版本选择困难症** ](https://gitee.com/ww3w/dzb/blob/master/bbk.md)
 
+[**浅谈定制版应用**](https://mp.weixin.qq.com/s/i7ADjqlF30SgoZi6cXUFOw)   |   [**下载地址** ](https://pan.lanzoui.com/b0cw93hih)   :fa-download: 
+
 [**参与讨论，发表你的见解**](https://mp.weixin.qq.com/s/Spd1G3vg8nMN0nVQ7zllzQ)  |  [**社区直达**](https://txc.qq.com/products/440008)    :fa-thumbs-up: 
 
-[**浅谈定制版应用**](https://mp.weixin.qq.com/s/i7ADjqlF30SgoZi6cXUFOw)   |   [**下载地址** ](https://pan.lanzoui.com/b0cw93hih)   :fa-download: 
 
 
 **注** ：单点 • 表示 ![输入图片说明](https://gitee.com/ww3w/dzb/raw/master/icons/6.svg)，双点 •• 表示兼容  ![输入图片说明](https://gitee.com/ww3w/dzb/raw/master/icons/36.svg)
