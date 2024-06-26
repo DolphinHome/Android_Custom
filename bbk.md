@@ -13,7 +13,7 @@
 
 > 最后更新于 2024-06-25 22:15
 
-[**定制版APP目录**](https://gitee.com/ww3w/dzb/blob/master/dzb.md)
+[**定制版 APP 目录**](https://gitee.com/ww3w/dzb/blob/master/dzb.md)
 
 
 [**参与讨论，发现适合你的版本**](https://mp.weixin.qq.com/s/Spd1G3vg8nMN0nVQ7zllzQ)  |  [**社区直达**](https://support.qq.com/product/440008)
