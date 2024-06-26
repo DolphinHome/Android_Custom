@@ -18,7 +18,6 @@
 
 [**参与讨论，发现适合你的版本**](https://mp.weixin.qq.com/s/Spd1G3vg8nMN0nVQ7zllzQ)  |  [**社区直达**](https://support.qq.com/product/440008)
 
-[ **Google Play应用精选** ](https://mp.weixin.qq.com/s/_untN0uljpD2tR_QiTsQ-A)  |  [**下载地址**](https://pan.lanzout.com/b0cxoc3mh)
 
 
 **注** ：以下 **Android版** 特指上架国内应用商店的通用版本， **Play版** 特指上架谷歌商店的国际版本，**IOS版** 特指上架国区 APP Store 的版本，其他版本请根据字面意思自行理解
