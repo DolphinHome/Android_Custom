@@ -7,11 +7,11 @@
 
 ![userviews](https://img.shields.io/badge/5%E4%B8%87+-%E8%AE%BF%E9%97%AE%E4%BA%BA%E6%95%B0-brightgreen.svg?logo=gitee&style=flat-square)![Download](https://img.shields.io/badge/30%E4%B8%87+-%E4%B8%8B%E8%BD%BD%E9%87%8F-FFCC22.svg?logo=DocuSign&style=flat-square)![Bing](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83%E5%AE%9A%E5%88%B6%E7%89%88-Search-389CFB.svg?logo=Microsoftbing&style=flat-square)![Wechat](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83-%E6%90%9C%E4%B8%80%E6%90%9C-FA5151.svg?logo=wechat&style=flat-square)
 
-> 1. 新增微信的 Beta 版本更新细节，新增百度网盘的推荐版本，含图文测评
+> 1. 新增微信 8.0.50 版本的更新细节，新增百度网盘的推荐版本，含图文测评
 
 > 2. 新增微信读书丶小红书丶支付宝的"版本通性"内容，补充部分版本的更多信息
 
-> 最后更新于 2024-07-01 14:00
+> 最后更新于 2024-07-03 14:00
 
 [**定制版 APP 目录**](https://gitee.com/ww3w/dzb/blob/master/dzb.md)
 
@@ -95,7 +95,7 @@
 > 改善小程序的用户体验，包括优化冷启动速度和提升流畅度  
 
 **Play版 v8.0.49**
-> 版本代号首次超过国内商店版本，现在任意国内商店版本均可升级到 8.0.49 版本了
+> 版本代号首次超过国内商店版本，现在绝大多数国内商店版本均可直接升级到 8.0.49 版本了
 
 > 新增 **搜索建议词** 功能，依据是文章标题和内容，具体位置在文章留言区正上方 
 
@@ -143,7 +143,7 @@
 
 > Target API 回到 30，修复了部分设备偶尔漏消息的问题
 
-**Android版 v8.0.50 Beta**
+**Android版 v8.0.50**
 
 > 第一个支持收发视频 **倍速播放** 的版本，最高为 2 倍速 
 
@@ -192,9 +192,9 @@
 **IOS版 v8.0.49**
 > 第一个支持将聊天内容里的视频 **倍速播放** 的版本，另外，安装包体积继续缩小 5M
 
-**IOS版 v8.0.50 Beta**
+**IOS版 v8.0.50 **
 
-> 第一个支持任意 **邀请多人通话** 的版本，现在不需要先拉人进群聊了  
+> 移除了 Beta 版本的 **邀请多人通话** 的功能，或许该功能还需要更多的测试   
 
 
 ## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/QQ.svg) QQ
