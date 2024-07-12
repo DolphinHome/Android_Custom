@@ -6,7 +6,7 @@
 > 新增 华为 Pura 70 Ultra丶Redmi Turbo 3 丶小米 14 Ultra丶 荣耀 Magic6 Pro丶vivo X100 Pro 等定制版 APP
 
 
-![read](https://img.shields.io/badge/10%E4%B8%87+-%E9%98%85%E8%AF%BB%E9%87%8F-brightgreen?style=for-the-badge&logo=wechat) ![collect](https://img.shields.io/badge/1.3%E4%B8%87+-%E6%94%B6%E8%97%8F%E9%87%8F-brightgreen?style=for-the-badge&logo=android)  ![Search](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83%E5%AE%9A%E5%88%B6%E7%89%88-search-4285F4?style=for-the-badge&logo=google&logoColor=4285F4) ![Wechat](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83-%E6%90%9C%E4%B8%80%E6%90%9C-FA5151?style=for-the-badge&logo=wechat)
+![read](https://img.shields.io/badge/10%E4%B8%87+-%E9%98%85%E8%AF%BB%E9%87%8F-brightgreen?style=for-the-badge&logo=wechat) ![collect](https://img.shields.io/badge/1.3%E4%B8%87%E6%94%B6%E8%97%8F-%E9%85%B7%E5%AE%89-brightgreen?style=for-the-badge&logo=android)  ![Search](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83%E5%AE%9A%E5%88%B6%E7%89%88-search-4285F4?style=for-the-badge&logo=google&logoColor=4285F4) ![Wechat](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83-%E6%90%9C%E4%B8%80%E6%90%9C-FA5151?style=for-the-badge&logo=wechat)
 
 > 最后更新于 2024-07-12 14:01
 
