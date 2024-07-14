@@ -670,7 +670,7 @@
 ---
 
  **Play版 v10.3.0.7**  ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg)
-> 最后一个 **Play商店版本** ，广告极少，支持 **DTS音效** ，[图文测评](https://mp.weixin.qq.com/s/qmUDm8bCVgvAgujEcB-dXw)
+> 最后一个 **谷歌版本** ，广告极少，支持 **DTS音效** ，[图文测评](https://mp.weixin.qq.com/s/qmUDm8bCVgvAgujEcB-dXw)
 
 **Android版 v10.12.5.9** 
 > 第一个支持 **一起听** 功能的版本
