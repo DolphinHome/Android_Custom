@@ -3,12 +3,18 @@
 ---
  
 
-> 新增 华为 Pura 70 Ultra丶Redmi Turbo 3 丶小米 14 Ultra丶 荣耀 Magic6 Pro丶vivo X100 Pro 等定制版 APP
+> 渠道因素决定了收藏的难度，希望这份收藏能给 Android 生态用户带来一丝丝 **暖意** 
 
 
-![read](https://img.shields.io/badge/10%E4%B8%87+-%E9%98%85%E8%AF%BB%E9%87%8F-brightgreen?style=for-the-badge&logo=wechat) ![collect](https://img.shields.io/badge/1.3%E4%B8%87%E6%94%B6%E8%97%8F-%E9%85%B7%E5%AE%89-brightgreen?style=for-the-badge&logo=android)  ![Search](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83%E5%AE%9A%E5%88%B6%E7%89%88-search-4285F4?style=for-the-badge&logo=google&logoColor=4285F4) ![Wechat](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83-%E6%90%9C%E4%B8%80%E6%90%9C-FA5151?style=for-the-badge&logo=wechat)
+![read](https://img.shields.io/badge/10%E4%B8%87+-%E9%98%85%E8%AF%BB%E9%87%8F-brightgreen?style=for-the-badge&logo=wechat) ![collect](https://img.shields.io/badge/1.3%E4%B8%87%E6%94%B6%E8%97%8F-%E9%85%B7%E5%AE%89-brightgreen?style=for-the-badge&logo=android)  ![Search](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83%E5%AE%9A%E5%88%B6%E7%89%88-search-4285F4?style=for-the-badge&logo=google&logoColor=4285F4) ![Wechat](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83-%E6%90%9C%E4%B8%80%E6%90%9C-FA5151?style=for-the-badge&logo=wechat) ![QQ](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83-QQ%E9%A2%91%E9%81%93-089CFF?style=for-the-badge&logo=Tencentqq)
 
-> 最后更新于 2024-07-12 14:01
+> 1. 新增 华为丶小米丶荣耀丶OPPO丶vivo 等品牌的旗舰机型的定制版本
+
+> 2. 移除部分不可使用和停止服务的 APP，包括 WIFI 管家丶虾米音乐
+
+> 3. 增加了微信订阅号和 QQ 频道的相关信息，具体请看以上徽章内容
+
+> 最后更新于 2024-07-19 14:01
 
 
 [ **版本拐点，根治版本选择困难症** ](https://gitee.com/ww3w/dzb/blob/master/bbk.md)
@@ -20,8 +26,6 @@
 
 
 **注** ：单点 • 表示 ![输入图片说明](https://gitee.com/ww3w/dzb/raw/master/icons/6.svg)，双点 •• 表示兼容  ![输入图片说明](https://gitee.com/ww3w/dzb/raw/master/icons/36.svg)
-
-**注** ：渠道因素决定了收藏的难度，希望这份收藏能给 Android 生态用户带来一丝丝 **暖意** 
 
 **注** ：以下为 **定制版APP** 完整目录，下载需要 **号内搜索** 和 **网盘搜索**  :fa-search: ，如下图
 
@@ -1059,14 +1063,6 @@ OPPO Find X5 Pro定制版 v12.40.1 •
 
 小米定制版 v5.8.5
 
-## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/WFGJ.svg) WiFi管家
-
----
-
-乐视定制版 v3.0.0
-> WIFI管家已于2022年12月1日零时零分起正式停止服务
-
-Xperia 10 Plus 定制版 v3.3.0
 
 ## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/wanneng.svg) 万能遥控
 
@@ -1399,15 +1395,6 @@ MIUI定制版 v4.0.1 .3
 三星定制版 v12.9.0.8 •
 > 相比于普通版本，图标里多了三星字样，优化了三星设备的发热和耗电问题
 
-
-## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/xiami.svg) 虾米音乐
-
----
-
-中兴Axon 定制版 v7.2.0 .5
-> 虾米音乐已于2021年3月5日关闭服务器
-
-坚果Pro 定制版 v7.1.1
 
 ## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/kugou.svg) 酷狗音乐
 
