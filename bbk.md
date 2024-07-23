@@ -5,7 +5,7 @@
 
 > 目前还处于建设阶段，后续可能会增加 APP 类型丶个人点评和图文来源等核心内容
 
-![userviews](https://img.shields.io/badge/5%E4%B8%87+-%E8%AE%BF%E9%97%AE%E4%BA%BA%E6%95%B0-brightgreen?style=for-the-badge&logo=gitee&logoColor=C71D23) ![Download](https://img.shields.io/badge/30%E4%B8%87+-%E4%B8%8B%E8%BD%BD%E9%87%8F-3693F3?style=for-the-badge&logo=iCloud&logoColor=3693F3) ![Search](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83%E5%AE%9A%E5%88%B6%E7%89%88-search-4285F4?style=for-the-badge&logo=google&logoColor=4285F4) ![Wechat](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83-%E6%90%9C%E4%B8%80%E6%90%9C-FA5151?style=for-the-badge&logo=wechat) ![QQ](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83-QQ%E9%A2%91%E9%81%93-089CFF?style=for-the-badge&logo=Tencentqq)
+![userviews](https://img.shields.io/badge/5%E4%B8%87+-%E8%AE%BF%E9%97%AE%E4%BA%BA%E6%95%B0-brightgreen?style=for-the-badge&logo=gitee&logoColor=C71D23) ![Download](https://img.shields.io/badge/30%E4%B8%87+-%E4%B8%8B%E8%BD%BD%E9%87%8F-3693F3?style=for-the-badge&logo=iCloud&logoColor=3693F3) ![Search](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83%E5%AE%9A%E5%88%B6%E7%89%88-search-4285F4?style=for-the-badge&logo=google&logoColor=4285F4) ![Wechat](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83-%E6%90%9C%E4%B8%80%E6%90%9C-FA5151?style=for-the-badge&logo=wechat) ![xhs](https://img.shields.io/badge/%E8%BF%9B%E5%8C%96%E7%9A%84%E9%B9%B0-%E5%B0%8F%E7%BA%A2%E4%B9%A6-FF2442?style=for-the-badge&logo=xiaohongshu) ![QQ](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83-QQ%E9%A2%91%E9%81%93-089CFF?style=for-the-badge&logo=Tencentqq)
 
 
 > 1. 新增微信 8.0.50 版本的更新细节，新增百度网盘的推荐版本，含图文测评
@@ -14,7 +14,7 @@
 
 > 3. 新增酷安丶QQ音乐丶QQ极速版等 APP 的版本细节
 
-> 最后更新于 2024-07-19 14:25
+> 最后更新于 2024-07-23 11:39
 
 [**定制版 APP 目录**](https://gitee.com/ww3w/dzb/blob/master/dzb.md)
 
@@ -685,6 +685,9 @@
 **Android版 v11.5.5.8**   ![beiyong](https://gitee.com/ww3w/dzb/raw/master/icons/beiyong.svg)
 > 2023 年 11 月 29 日，目前这个版本相对简洁，广告较少，较为推荐，以前的版本或多或少存在使用问题
 
+**Android版 v13.8.0.3** 
+> 第一个回归 **DTS 音效** 的版本，数年前因为协议到期而移除 
+
  **IOS版 v9.3.0** 
 > 最后一个 **无开屏广告且底栏简洁** 的版本
 
@@ -698,7 +701,7 @@
 > 最后一个没有 **直播功能** 的版本
 
 **IOS版 v10.3.9**
-> 最后一个支持 **DTS音效** 的版本
+> 最后一个支持 **DTS音效** 的版本，后续因为协议到期而移除
 
 **IOS版 v10.18.0**
 > 第一个支持 **Hi-Fi音质** 的版本
