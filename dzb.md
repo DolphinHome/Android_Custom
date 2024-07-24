@@ -14,14 +14,14 @@
 
 > 3. 增加了微信订阅号丶小红书和 QQ 频道的相关信息，具体请看以上徽章内容
 
-> 最后更新于 2024-07-23 11:40
+> 4. 兔小巢交流渠道永久停用，原有内容保留，后续不再进行任何回复
+
+> 最后更新于 2024-07-24 22:50
 
 
 [ **版本拐点，根治版本选择困难症** ](https://gitee.com/ww3w/dzb/blob/master/bbk.md)
 
 [**浅谈定制版应用**](https://mp.weixin.qq.com/s/i7ADjqlF30SgoZi6cXUFOw)   |   [**下载地址** ](https://pan.lanzoui.com/b0cw93hih)   :fa-download: 
-
-[**参与讨论，发表你的见解**](https://mp.weixin.qq.com/s/Spd1G3vg8nMN0nVQ7zllzQ)  |  [**社区直达**](https://txc.qq.com/products/440008)    :fa-thumbs-up: 
 
 
 
