@@ -14,13 +14,11 @@
 
 > 3. 新增酷安丶QQ音乐丶QQ极速版等 APP 的版本细节
 
-> 最后更新于 2024-07-23 11:39
+> 4. 兔小巢交流渠道永久停用，原有内容保留，后续不再进行任何回复
+
+> 最后更新于 2024-07-24 22:50
 
 [**定制版 APP 目录**](https://gitee.com/ww3w/dzb/blob/master/dzb.md)
-
-
-[**参与讨论，发现适合你的版本**](https://mp.weixin.qq.com/s/Spd1G3vg8nMN0nVQ7zllzQ)  |  [**社区直达**](https://support.qq.com/product/440008)
-
 
 
 **注** ：以下 **Android版** 特指上架国内应用商店的通用版本， **Play版** 特指上架谷歌商店的国际版本，**IOS版** 特指上架国区 APP Store 的版本，其他版本请根据字面意思自行理解
