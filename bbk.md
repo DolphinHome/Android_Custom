@@ -21,7 +21,7 @@
 [**定制版 APP 目录**](https://gitee.com/ww3w/dzb/blob/master/dzb.md)
 
 
-**注** ：以下 **Android版** 特指上架国内应用商店的通用版本， **Play版** 特指上架谷歌商店的国际版本，**IOS版** 特指上架国区 APP Store 的版本，其他版本请根据字面意思自行理解
+**注** ：以下 **Android版** 特指上架国内应用商店的通用版本， **Play版** 特指上架谷歌商店的谷歌版本，**IOS版** 特指上架国区 APP Store 的版本，其他版本请根据字面意思自行理解
 
 © 2020 - 2024 百分之千. Article rights reserved.
 
@@ -591,7 +591,7 @@
 ---
 
  **Play版 v9.1.9466**   ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg)
-> 最后一个 **Play** 版本，无广告，不升级，日常占用 100M 以内，[图文测评](https://mp.weixin.qq.com/s/qmUDm8bCVgvAgujEcB-dXw)
+> 最后一个 **谷歌版本** ，无广告，不升级，日常占用 100M 以内，[图文测评](https://mp.weixin.qq.com/s/qmUDm8bCVgvAgujEcB-dXw)
 
 **Android版 v13.0.1**  ![beiyong](https://gitee.com/ww3w/dzb/raw/master/icons/beiyong.svg) 
 > 第一个支持 **生成式 AI** 功能的版本，包括但不限于 AI 助手丶AI 皮肤
