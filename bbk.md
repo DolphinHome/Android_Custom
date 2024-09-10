@@ -8,7 +8,7 @@
 ![userviews](https://img.shields.io/badge/5%E4%B8%87+-%E8%AE%BF%E9%97%AE%E4%BA%BA%E6%95%B0-brightgreen?style=for-the-badge&logo=gitee&logoColor=C71D23) ![Download](https://img.shields.io/badge/30%E4%B8%87+-%E4%B8%8B%E8%BD%BD%E9%87%8F-3693F3?style=for-the-badge&logo=iCloud&logoColor=3693F3) ![Search](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83%E5%AE%9A%E5%88%B6%E7%89%88-search-4285F4?style=for-the-badge&logo=google&logoColor=4285F4) ![Wechat](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83-%E6%90%9C%E4%B8%80%E6%90%9C-FA5151?style=for-the-badge&logo=wechat) ![xhs](https://img.shields.io/badge/%E8%BF%9B%E5%8C%96%E7%9A%84%E9%B9%B0-%E5%B0%8F%E7%BA%A2%E4%B9%A6-FF2442?style=for-the-badge&logo=xiaohongshu) ![QQ](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83-QQ%E9%A2%91%E9%81%93-089CFF?style=for-the-badge&logo=Tencentqq)
 
 
-> 1. 新增微信 8.0.50 版本的更新细节，新增百度网盘的推荐版本，含图文测评
+> 1. 新增微信 8.0.51 版本的更新细节，新增百度网盘的推荐版本，含图文测评
 
 > 2. 新增微信读书丶小红书丶支付宝的"版本通性"内容，补充部分版本的更多信息
 
@@ -16,7 +16,7 @@
 
 > 4. 兔小巢交流渠道永久停用，原有内容保留，后续不再进行任何回复
 
-> 最后更新于 2024-08-22 20:50
+> 最后更新于 2024-09-10 16:30
 
 [**定制版 APP 目录**](https://gitee.com/ww3w/dzb/blob/master/dzb.md)
 
@@ -201,8 +201,12 @@
 > 第一个支持将聊天内容里的视频 **倍速播放** 的版本，另外，安装包体积继续缩小 5M
 
 **IOS版 v8.0.50**
+> 移除了 Beta 版本的 **邀请多人通话** 的功能，或许该功能还需要更多的测试
 
-> 移除了 Beta 版本的 **邀请多人通话** 的功能，或许该功能还需要更多的测试   
+**IOS版 v8.0.51**
+> 第一个和 **苹果公司** 陷入谈判拉锯战后上线的版本
+
+> 收藏功能顶部下拉可以显示已用的存储空间了，清理功能支持清理更多垃圾文件
 
 
 ## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/QQ.svg) QQ
@@ -476,7 +480,7 @@
 
 ---
 
- **Android 内部版 v1.0.5**  ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg)
+ **Android 内部版 v1.0.5**
 > 最后一个 **极致精简** 的内部版本，底部只有三个按钮，无广告，低占用，更省电，[下载地址](https://pan.lanzout.com/iDqGMf207ti)
 
 > 此版本进入主流贴吧会有一定概率卡住，小吧无影响
@@ -832,7 +836,7 @@
 
 ---
 
- **Play版 v10.25.0.1303**  ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg)
+ **Play版 v10.25.0.1303**
 > 第一个再次上线 **Google Play 商店** 的版本，时隔两年，[下载地址](https://pan.lanzout.com/if45U16z7ffa)
 
  **Android版 v11.11.1.2843** 
@@ -1131,6 +1135,9 @@
 
 **Android版 v14.3.0** 
 > 第一个同时支持 **精确搜索** 和 **模糊搜索** 的版本，可以通过下拉菜单切换
+
+**Android版 v14.5.0** 
+> 第一个支持收藏 **自定义表情包** 功能的版本，现在可以在评论区极速斗图了 
 
 > 附一个酷安版本合集：[下载地址](https://pan.lanzoui.com/b0cy3gzvc)
 
