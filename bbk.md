@@ -8,7 +8,7 @@
 ![userviews](https://img.shields.io/badge/5%E4%B8%87+-%E8%AE%BF%E9%97%AE%E4%BA%BA%E6%95%B0-brightgreen?style=for-the-badge&logo=gitee&logoColor=C71D23) ![Download](https://img.shields.io/badge/30%E4%B8%87+-%E4%B8%8B%E8%BD%BD%E9%87%8F-3693F3?style=for-the-badge&logo=iCloud&logoColor=3693F3) ![Search](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83%E5%AE%9A%E5%88%B6%E7%89%88-search-4285F4?style=for-the-badge&logo=google&logoColor=4285F4) ![Wechat](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83-%E6%90%9C%E4%B8%80%E6%90%9C-FA5151?style=for-the-badge&logo=wechat) ![xhs](https://img.shields.io/badge/%E8%BF%9B%E5%8C%96%E7%9A%84%E9%B9%B0-%E5%B0%8F%E7%BA%A2%E4%B9%A6-FF2442?style=for-the-badge&logo=xiaohongshu) ![QQ](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83-QQ%E9%A2%91%E9%81%93-089CFF?style=for-the-badge&logo=Tencentqq)
 
 
-> 1. 新增微信 8.0.51 版本的更新细节，新增百度网盘的推荐版本，含图文测评
+> 1. 新增微信 8.0.51 版本的更新细节，新增高德地图丶百度网盘的推荐版本
 
 > 2. 新增微信读书丶小红书丶支付宝的"版本通性"内容，补充部分版本的更多信息
 
@@ -16,7 +16,7 @@
 
 > 4. 兔小巢交流渠道永久停用，原有内容保留，后续不再进行任何回复
 
-> 最后更新于 2024-09-10 16:30
+> 最后更新于 2024-09-16 22:35
 
 [**定制版 APP 目录**](https://gitee.com/ww3w/dzb/blob/master/dzb.md)
 
@@ -150,8 +150,12 @@
 > Target API 回到 30，修复了部分设备偶尔漏消息的问题
 
 **Android版 v8.0.50**
-
 > 第一个支持收发视频 **倍速播放** 的版本，最高为 2 倍速 
+
+**Android版 v8.0.51**
+> 第一个支持 **将订阅号文章保存为图片** 的版本，具体操作可点击文章右上角的选项
+
+> 服务号折叠页面采用列表样式，更加简洁，该功能还在灰度测试
 
 > 附一个微信的国内历史版本合集：[下载地址](https://pan.lanzoui.com/b0czwr3qb)
 
@@ -842,14 +846,20 @@
  **Android版 v11.11.1.2843** 
 > 第一个支持 **车道级导航** 的版本
 
+**Android版 v11.11.1.2843** 
+> 第一个正式上线 **红绿灯倒计时** 功能的版本，发布于 2022 年 8 月 
+
  **IOS版 v10.55.0** 
 > 最后一个支持 **旧版语音** 的版本，没有团团丶可莉等自定义语音包，不能侧滑返回
 
- **IOS版 v10.83.0**  ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg)
+ **IOS版 v10.83.0**  ![beiyong](https://gitee.com/ww3w/dzb/raw/master/icons/beiyong.svg)
 > 最后一个 **地图无广告** 的版本，支持 **侧滑返回** ，上线于 2021 年 04 月 23 日
 
  **IOS版 v11.11.1**  
 > 第一个支持 **车道级导航** 的版本，上线于 2021 年 11 月 03 日
+
+ **IOS版 v12.06.0**  ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg)
+>  最后一个可以正常使用 **红绿灯倒计时** 的版本
 
 **IOS版 v13.8.2**  ![weixian](https://gitee.com/ww3w/dzb/raw/master/icons/weixian.svg)  
 > 此版本被 **工信部** 点名通报，通报理由：开屏信息窗口“乱跳转”，误导用户，[原文链接](https://www.miit.gov.cn/jgsj/xgj/gzdt/art/2024/art_a6f9db30756c4464804355afb64723ff.html)
