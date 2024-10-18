@@ -26,7 +26,7 @@
 © 2020 - 2024 百分之千. Article rights reserved.
 
 
-## ![微信](https://gitee.com/ww3w/dzb/raw/master/iconsSE/wechat.svg) 微信
+### ![微信](https://gitee.com/ww3w/dzb/raw/master/iconsSE/wechat.svg) 微信
 
 ---
 
@@ -390,7 +390,7 @@
 > 第一个支持 **分享内容到微信和朋友圈** 的版本，内容包括直播丶视频丶评论丶笔记丶专栏等
 
 **Play版 v3.17.0**  ![beiyong](https://gitee.com/ww3w/dzb/raw/master/icons/beiyong.svg)
-> 第一个支持 **查看评论区图片** 的版本
+> 第一个能够正常显示 **评论区图片** 的版本
 
 > 附一个哔哩哔哩 Play 版本合集：[下载地址](https://pan.lanzout.com/b0cxp10eb)
 
