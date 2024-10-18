@@ -216,7 +216,7 @@
 > 第一个支持在好友资料里查看 **添加时间** 的版本，可以依次点击通讯录-更多信息-添加时间进行查看 
 
 
-## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/QQ.svg) QQ
+### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/QQ.svg) QQ
 
 ---
 
@@ -281,7 +281,7 @@
  **iOS版 v8.9.63** 
 > 第一个采用  **New Technology**  架构的版本
 
-## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/TIM.svg) TIM
+### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/TIM.svg) TIM
 ---
 
 **Android版 v2.3.1**
@@ -298,7 +298,7 @@
 
 
 
-## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/weibo.svg) 微博
+### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/weibo.svg) 微博
 
 ---
 
@@ -357,7 +357,7 @@
 > 最后一个图标里没有 **广告文字** 的版本
 
 
-## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/bilibili.svg) 哔哩哔哩
+### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/bilibili.svg) 哔哩哔哩
 
 ---
 
@@ -433,7 +433,7 @@
 > 第一个支持 **长按倍速播放** 的版本 
 
 
-## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/xiaohongshu.svg) 小红书
+### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/xiaohongshu.svg) 小红书
 
 ---
 **Google Play 版本** ![tong](https://gitee.com/ww3w/dzb/raw/master/icons/Tong.svg)
@@ -458,7 +458,7 @@
 > 第一个支持  **带图评论**  的版本 
 
 
-## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/zhihu.svg) 知乎
+### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/zhihu.svg) 知乎
 
 ---
 
@@ -488,7 +488,7 @@
 > 第一个在 **底部导航栏添加视频** 的版本，[图片预览](https://pic2.zhimg.com/80/v2-720efb533398e2629ee5562d4eb8d6e1_720w.jpg)
 
 
-## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/tieba.svg) 百度贴吧
+### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/tieba.svg) 百度贴吧
 
 ---
 
@@ -524,7 +524,7 @@
  **IOS版 v12.20.1** 
 > 第一个支持 **发帖排版，图文混排** 的版本 
 
-## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/douban.svg) 豆瓣
+### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/douban.svg) 豆瓣
 
 ---
 
@@ -539,7 +539,7 @@
 **IOS版 v7.0.0**  ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg)
 > 最后一个 **相对简洁且能正常使用** 的版本
 
-## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/hupu.svg) 虎扑
+### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/hupu.svg) 虎扑
 
 ---
 
@@ -550,7 +550,7 @@
 > 第一个将 **Target API** 升级到 30 的版本，广告极少，发布于 2022 年 7 月，[下载地址](https://pan.lanzout.com/iRfUA1vp7glc) 
 
 
-## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/wxread.svg) 微信读书
+### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/wxread.svg) 微信读书
 
 ---
 
@@ -579,7 +579,7 @@
 > 第一个支持导入 **mobi** 、 **azw3** 格式书籍的版本
 
 
-## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/duokan.svg) 多看阅读
+### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/duokan.svg) 多看阅读
 
 ---
 
@@ -590,7 +590,7 @@
 > 最后一个 **页面底部没有广告** 的版本，[下载地址](https://pan.lanzout.com/icfV50tzjire)
 
 
-## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/baiduinput.svg) 百度输入法
+### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/baiduinput.svg) 百度输入法
 
 ---
 
@@ -610,7 +610,7 @@
 > 第一个新增 **VIP 功能** 的版本，可使用商城全部功能和独家的 AI 功能
 
 
-## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/iflytek.svg) 讯飞输入法
+### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/iflytek.svg) 讯飞输入法
 
 ---
 
@@ -626,7 +626,7 @@
 > 最后一个 **没有广告** 的版本，[下载地址](https://download.voicecloud.cn/200ime/iFlyIME_Setup3.0.1727.exe) 
 
 
-## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/wangyiyun.svg) 网易云音乐
+### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/wangyiyun.svg) 网易云音乐
 
 ---
 
@@ -693,7 +693,7 @@
 > 第一个支持 **底部导航自定义** 的版本，可以隐藏底栏的 **播客** 和 **K歌** 入口
 
 
-## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/qqmusic.svg) QQ音乐
+### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/qqmusic.svg) QQ音乐
 
 ---
 
@@ -742,7 +742,7 @@
 > 最后一个 **个人主页设计元素统一** 的版本
 
 
-## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/kugou.svg) 酷狗音乐
+### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/kugou.svg) 酷狗音乐
 
 ---
 
@@ -765,7 +765,7 @@
 > 第一个完美支持 **桌面歌词** 的版本，图标有活动标记
 
  
-## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/toutiao.svg) 今日头条
+### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/toutiao.svg) 今日头条
 
 ---
 
@@ -784,7 +784,7 @@
 > 第一个支持 **长按倍速** 的版本 
 
 
-## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/Via.svg) Via浏览器
+### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/Via.svg) Via浏览器
 
 ---
 
@@ -830,7 +830,7 @@
 > 第一个支持 **搜索工具栏** 的版本，现在可以在网页最下方随意切换其他搜索引擎了 
 
 
-## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/kuake.svg) 夸克
+### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/kuake.svg) 夸克
 
 ---
 
@@ -853,7 +853,7 @@
 > 88VIP可看至臻视频，享受SVIP功能，版本ID：854197447
 
 
-## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/gaode.svg) 高德地图
+### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/gaode.svg) 高德地图
 
 ---
 
@@ -882,7 +882,7 @@
 > 此版本被 **工信部** 点名通报，通报理由：开屏信息窗口“乱跳转”，误导用户，[原文链接](https://www.miit.gov.cn/jgsj/xgj/gzdt/art/2024/art_a6f9db30756c4464804355afb64723ff.html)
 
 
-## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/netdisk.svg) 百度网盘
+### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/netdisk.svg) 百度网盘
 
 ---
 
@@ -896,7 +896,7 @@
 > 第一个支持 **AI字幕** 的版本
 
 
-## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/eleme.svg) 饿了么
+### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/eleme.svg) 饿了么
 
 ---
 
@@ -904,7 +904,7 @@
 > 目前唯一的  **Target API 31**  的版本，其他版本 API 均小于等于 30，基本没有广告，图标纯净，功能正常，[下载地址](https://pan.lanzoui.com/iOL7f1g2obbg)
 
 
-## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/xiachufang.svg) 下厨房
+### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/xiachufang.svg) 下厨房
 
 ---
 
@@ -919,7 +919,7 @@
 > 此版本被工信部点名通报，通报理由：开屏信息窗口“乱跳转”，误导用户，[原文链接](https://www.miit.gov.cn/jgsj/xgj/gzdt/art/2024/art_a6f9db30756c4464804355afb64723ff.html)
 
 
-## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/alipay.svg) 支付宝
+### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/alipay.svg) 支付宝
 
 ---
 
@@ -948,7 +948,7 @@
 > 第一个支持 **自动深色模式** 的版本
 
 
-## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/taobao.svg) 淘宝
+### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/taobao.svg) 淘宝
 
 ---
 
@@ -977,7 +977,7 @@
 > 第一个添加 **数字人民币** 支付功能的版本
 
 
-## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/xianyu.svg) 闲鱼
+### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/xianyu.svg) 闲鱼
 
 ---
 **Play版 v7.14.40.4**  ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg)  
@@ -990,7 +990,7 @@
 > 此版本被 **工信部** 点名通报，通报理由：开屏信息窗口“乱跳转”，误导用户，[原文链接](https://www.miit.gov.cn/jgsj/xgj/gzdt/art/2024/art_a6f9db30756c4464804355afb64723ff.html)
 
 
-## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/pdd.svg) 拼多多
+### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/pdd.svg) 拼多多
 
 ---
 
@@ -1012,7 +1012,7 @@
 >  第一个支持 **云闪付** 功能的版本 
 
 
-## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/zhidemai.svg) 什么值得买
+### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/zhidemai.svg) 什么值得买
 
 ---
 
@@ -1034,7 +1034,7 @@
 
 
 
-## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/huya.svg) 虎牙直播
+### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/huya.svg) 虎牙直播
 
 ---
 
@@ -1046,7 +1046,7 @@
 
 
 
-## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/douyin.svg) 抖音
+### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/douyin.svg) 抖音
 
 ---
 
@@ -1085,7 +1085,7 @@
 **IOS版 v16.9.0** 
 > 最后一个 16 版本号开头的版本，相对来说足够简洁，读者力荐
 
-## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/kuaishou.svg) 快手
+### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/kuaishou.svg) 快手
 
 ---
 
@@ -1101,7 +1101,7 @@
 > 精选的内容由双列 Feed 流排布更改为 **竖屏单列推荐** 
 
 
-## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/kuan.svg) 酷安
+### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/kuan.svg) 酷安
 
 ---
 
@@ -1189,14 +1189,14 @@
 **IOS版 v5.3.5**
 > 第一个支持 **关注页面-好友关注** 的版本，版本ID：866300052
 
-## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/fenxiang.svg) 特别鸣谢
+### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/fenxiang.svg) 特别鸣谢
 
 ---
 > 感谢以下用户提供的资源和线索，@符号后面的是用户ID，排名不分先后
 
 @momo @一名琴师 @莫去币 @千灵 @海北鱼 @马哈Fly @所有热爱折腾的朋友
 
-## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/cknr.svg) 参考内容
+### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/cknr.svg) 参考内容
 
 ---
 
