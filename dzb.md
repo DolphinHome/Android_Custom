@@ -16,7 +16,7 @@
 
 > 4. QQ 频道永久关闭添加途径，兔小巢交流渠道永久停用，两个渠道里的原有内容继续保留
 
-> 最后更新于 2024-10-16 12:39
+> 最后更新于 2024-10-18 10:39
 
 
 [ **版本拐点，根治版本选择困难症** ](https://gitee.com/ww3w/dzb/blob/master/bbk.md)
@@ -1107,7 +1107,7 @@ OPPO Find X5 Pro定制版 v12.40.1 •
 > 没有广告，支持简体中文，包名里面有 "huawei" 标记
 
 
-## ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/liebao.svg) 猎豹清理大师
+### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/liebao.svg) 猎豹清理大师
 
 ---
 
