@@ -8,16 +8,19 @@
 
 ![read](https://img.shields.io/badge/10%E4%B8%87+-%E9%98%85%E8%AF%BB%E9%87%8F-brightgreen?style=for-the-badge&logo=wechat) ![collect](https://img.shields.io/badge/1.3%E4%B8%87%E6%94%B6%E8%97%8F-%E9%85%B7%E5%AE%89-brightgreen?style=for-the-badge&logo=android)  ![Search](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83%E5%AE%9A%E5%88%B6%E7%89%88-search-4285F4?style=for-the-badge&logo=google&logoColor=4285F4) ![Wechat](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83-%E6%90%9C%E4%B8%80%E6%90%9C-FA5151?style=for-the-badge&logo=wechat) ![xhs](https://img.shields.io/badge/%E8%BF%9B%E5%8C%96%E7%9A%84%E9%B9%B0-%E5%B0%8F%E7%BA%A2%E4%B9%A6-FF2442?style=for-the-badge&logo=xiaohongshu) ![QQ](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83-QQ%E9%A2%91%E9%81%93-089CFF?style=for-the-badge&logo=Tencentqq)
 
-> 1. 新增 华为丶小米丶荣耀丶OPPO丶vivo 等品牌的旗舰机型的定制版本
+<details>
+  <summary> 点击展开更新内容，最后更新于 2024-10-20 19:38 </summary>
 
-> 2. 移除部分不可使用和停止服务的 APP，包括 WIFI 管家丶虾米音乐
+> 1. 新增 ⭐ 标记，有该标记的版本只适用特定品牌的机型
+
+> 2. 新增 移动端菜单脚本，可以快搜直达选定的 APP，[脚本地址](https://greasyfork.org/zh-CN/scripts/513028-%E4%B8%BA-gitee-%E9%A1%B5%E9%9D%A2%E7%94%9F%E6%88%90%E8%8F%9C%E5%8D%95)
 
 > 3. 增加了微信订阅号丶小红书的相关信息，具体请看以上徽章内容
 
 > 4. QQ 频道永久关闭添加途径，兔小巢交流渠道永久停用，两个渠道里的原有内容继续保留
 
-> 最后更新于 2024-10-18 10:39
 
+</details>
 
 [ **版本拐点，根治版本选择困难症** ](https://gitee.com/ww3w/dzb/blob/master/bbk.md)
 
