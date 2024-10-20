@@ -8,15 +8,13 @@
 ![userviews](https://img.shields.io/badge/5%E4%B8%87+-%E8%AE%BF%E9%97%AE%E4%BA%BA%E6%95%B0-brightgreen?style=for-the-badge&logo=gitee&logoColor=C71D23) ![Download](https://img.shields.io/badge/30%E4%B8%87+-%E4%B8%8B%E8%BD%BD%E9%87%8F-3693F3?style=for-the-badge&logo=iCloud&logoColor=3693F3) ![Search](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83%E5%AE%9A%E5%88%B6%E7%89%88-search-4285F4?style=for-the-badge&logo=google&logoColor=4285F4) ![Wechat](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83-%E6%90%9C%E4%B8%80%E6%90%9C-FA5151?style=for-the-badge&logo=wechat) ![xhs](https://img.shields.io/badge/%E8%BF%9B%E5%8C%96%E7%9A%84%E9%B9%B0-%E5%B0%8F%E7%BA%A2%E4%B9%A6-FF2442?style=for-the-badge&logo=xiaohongshu) ![QQ](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83-QQ%E9%A2%91%E9%81%93-089CFF?style=for-the-badge&logo=Tencentqq)
 
 <details>
-  <summary> 点击展开更新内容 最后更新于 2024-10-19 18:23 </summary>
+  <summary> 点击展开更新内容 最后更新于 2024-10-20 21:16 </summary>
 
 > 1. 新增微信 8.0.52 版本的更新细节，新增高德地图丶百度网盘的推荐版本
 
 > 2. 新增微信读书丶小红书丶支付宝的"版本通性"内容，补充部分版本的更多信息
 
-> 3. 新增百度贴吧丶拼多多丶哔哩哔哩丶微信丶酷安丶Via浏览器等 APP 的版本细节
-
-> 4. 兔小巢交流渠道永久停用，原有内容保留，后续不再进行任何回复
+> 3. 新增快手丶饿了么丶百度贴吧丶拼多多丶哔哩哔哩丶微信丶酷安丶Via浏览器等 APP 的版本细节
 
 </details>
 
@@ -28,7 +26,7 @@
 © 2020 - 2024 百分之千. Article rights reserved.
 
 
-### ![微信](/iconsSE/wechat.svg)  微信
+### ![微信](https://gitee.com/ww3w/dzb/raw/master/iconsSE/wechat.svg)  微信
 
 ---
 
@@ -100,7 +98,7 @@
 **Play版 v8.0.49**
 > 新增 **搜索建议词** 功能，依据是文章标题和内容，具体位置在文章留言区正上方 
 
-> 附一个微信 Play 版本合集：[下载地址](https://pan.lanzout.com/b0cy3gjhc)
+> 微信 Play 版本合集：[下载地址](https://pan.lanzout.com/b0cy3gjhc)
 
 **Android版 v8.0.16** 
 > 最后一个在设置里保留 **勿扰模式** 的版本，可设置免打扰时段，对所有人有效
@@ -157,7 +155,7 @@
 
 > 服务号折叠页面采用小图标加标题的列表样式，更加简洁，该功能还在灰度测试
 
-> 附一个微信的国内历史版本合集：[下载地址](https://pan.lanzoui.com/b0czwr3qb)
+> 微信 Android 版本合集：[下载地址](https://pan.lanzoui.com/b0czwr3qb)
 
  **IOS版 v8.0.14** 
 > 第一个支持 **折叠群聊** 的版本
@@ -272,7 +270,7 @@
 **Android版 v9.0.35**
 > 第一个移除掉 **旧版 QQ 频道布局** 的版本，请谨慎更新
 
-> 附一个 QQ 国内版本合集：[下载地址](https://pan.lanzoui.com/b0czwx5ha)
+> QQ Android 版本合集：[下载地址](https://pan.lanzoui.com/b0czwx5ha)
 
  **IOS版 v8.8.38**
 > 第一个支持 **QQ频道** 的版本 
@@ -394,7 +392,7 @@
 **Play版 v3.17.0**  ![beiyong](https://gitee.com/ww3w/dzb/raw/master/icons/beiyong.svg)
 > 第一个能够正常显示 **评论区图片** 的版本
 
-> 附一个哔哩哔哩 Play 版本合集：[下载地址](https://pan.lanzout.com/b0cxp10eb)
+> 哔哩哔哩 Play 版本合集：[下载地址](https://pan.lanzout.com/b0cxp10eb)
 
  **Android版 v5.58.0** 
 > 最后一个支持 **侧边栏** 的版本
@@ -441,8 +439,11 @@
 **Google Play 版本** ![tong](https://gitee.com/ww3w/dzb/raw/master/icons/Tong.svg)
 > 基本没有广告，分享内容到其他平台时显示为国际版，不支持购物功能
 
-**Play版 v7.94.0**  ![beiyong](https://gitee.com/ww3w/dzb/raw/master/icons/beiyong.svg)
+**Play版 v7.94.0**  ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg)
 > 第一个支持 **图片评论** 的版本，[下载地址](https://pan.lanzout.com/ihF9v16vksmj)
+
+**Play 版 v8.47.984**
+> 第一个在关注页面采用 **双列瀑布流** 的版本，Target API 33
 
 **Android版 v6.42.1** 
 > 最后一个没有 **上下滑动刷视频** 功能的版本，这版能有效阻断视频推荐的干扰，[原文链接](https://txc.qq.com/products/440008/post/170054828196350979/)
@@ -464,10 +465,13 @@
 
 ---
 
-**Play版 v8.57.0**  ![beiyong](https://gitee.com/ww3w/dzb/raw/master/icons/beiyong.svg)
-> 第一个将 **Target API** 升级到 33 的版本，此前版本的 **API级别** 均小于等于 31，[下载地址](https://pan.lanzoui.com/iYQOl0tlgk0h)
+**Play版 v8.57.0**  ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg)
+> 第一个将 **Target API** 升级到 33 的版本，[下载地址](https://pan.lanzoui.com/iYQOl0tlgk0h)
 
-> 附上一个知乎 Play 版本合集：[下载地址](https://pan.lanzout.com/b0cy3ia5i)
+**Play版 v10.19.0** 
+> Google Play 商店 **下架** 前的最后一版
+
+> 知乎 Play 版本合集：[下载地址](https://pan.lanzoui.com/b0cy3ia5i)
 
  **Android版 v5.17.2** 
 > 最后一个支持 **左右滑动** 查看回答的版本
@@ -903,7 +907,12 @@
 ---
 
 **Android版 v10.13.12**  ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg)
-> 目前唯一的  **Target API 31**  的版本，其他版本 API 均小于等于 30，基本没有广告，图标纯净，功能正常，[下载地址](https://pan.lanzoui.com/iOL7f1g2obbg)
+> 目前唯一的  **Target API 31**  的版本，其他版本 API 均小于等于 30
+
+> 基本没有广告，图标纯净，功能正常，[下载地址](https://pan.lanzoui.com/iOL7f1g2obbg)
+
+**IOS版 v10.13.35**
+> 最后一个可以参加 **实时优惠活动** 的版本
 
 
 ### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/xiachufang.svg) 下厨房
@@ -1023,7 +1032,7 @@
 
 > @用户反馈 该版本目前无法查看评论区图片
 
-> 附什么值得买 Play 版本合集：[下载地址](https://pan.lanzout.com/b0cy3gthc)
+> 什么值得买 Play 版本合集：[下载地址](https://pan.lanzout.com/b0cy3gthc)
 
 **Android版 v10.6.15**  ![beiyong](https://gitee.com/ww3w/dzb/raw/master/icons/beiyong.svg) 
 > 第一个将 **Target API** 升级到 33 的版本，[下载地址](https://pan.lanzout.com/i6fFy1v47m7i)
@@ -1044,9 +1053,12 @@
 > 最后一个 **Google Play** 版本，基本没有广告，Target API 33，[下载地址](https://pan.lanzoui.com/iZVKk1zpecud)
 
  **Android版 v7.21.2** 
-> 能够领取粉丝团 **专属宝箱** 的最低版本，发布于 2020 年 09 月，安装包大小 73.41M，[图片预览](https://gitee.com/ww3w/dzb/raw/master/icons/huyatp.jpg)，[下载地址](https://pan.lanzout.com/ifCvo0yu0zaf)
+> 能够领取粉丝团 **专属宝箱** 的最低版本，发布于 2020 年 09 月
 
+> 安装包大小 73.41M，[图片预览](https://gitee.com/ww3w/dzb/raw/master/icons/huyatp.jpg)，[下载地址](https://pan.lanzout.com/ifCvo0yu0zaf)
 
+**IOS版 v11.4.0** 
+> 第一个投屏限制清晰度的版本，也即超清，没有开屏广告
 
 ### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/douyin.svg) 抖音
 
@@ -1076,16 +1088,17 @@
 
 > 最后一个 **没有商城** 的版本
 
- **Android版 v27.4.0** 
+ **Android版 v27.4.0** ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg)
 > 第一个将 **Target API** 升级到 30 的版本，发布于 2023 年 10 月，[下载地址](https://pan.lanzoui.com/im4gQ1r1bdti)
 
-> 附一个抖音历史版本合集：[下载地址](https://pan.lanzout.com/b0czwzfqb)
+> 抖音 Android 版本合集：[下载地址](https://pan.lanzout.com/b0czwzfqb)
 
  **IOS版 v16.5.0** 
 > 第一个支持 **倍速播放** 的版本
 
-**IOS版 v16.9.0** 
-> 最后一个 16 版本号开头的版本，相对来说足够简洁，读者力荐
+**IOS版 v28.6.0** ![beiyong](https://gitee.com/ww3w/dzb/raw/master/icons/beiyong.svg)
+> 第一个支持评论区 **实况图片** 的版本 
+
 
 ### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/kuaishou.svg) 快手
 
@@ -1101,6 +1114,11 @@
 > 第一个在底部导航栏添加 **精选** 入口的版本，并移除了底栏的 **同城** 入口 
 
 > 精选的内容由双列 Feed 流排布更改为 **竖屏单列推荐** 
+
+ **IOS版 v12.8.20**  ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg) 
+> 第一个支持 **锁屏组件功能** 的版本，可使用「热榜」「关注动态」「一键拍视频」组件
+
+> 该版本上线于 2022 年 9 月，版本 ID 为：868945132
 
 
 ### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/kuan.svg) 酷安
@@ -1171,7 +1189,7 @@
 **Android版 v14.5.0** 
 > 第一个支持收藏 **自定义表情包** 功能的版本，现在可以在评论区极速斗图了 
 
-> 附一个酷安版本合集：[下载地址](https://pan.lanzoui.com/b0cy3gzvc)
+> 酷安 Android 版本合集：[下载地址](https://pan.lanzoui.com/b0cy3gzvc)
 
 **IOS版 v3.0** 
 > 最后一个没有 **开屏广告** 的版本，版本 ID 为：838245180
