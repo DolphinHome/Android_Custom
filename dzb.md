@@ -9,7 +9,7 @@
 ![read](https://img.shields.io/badge/10%E4%B8%87+-%E9%98%85%E8%AF%BB%E9%87%8F-brightgreen?style=for-the-badge&logo=wechat) ![collect](https://img.shields.io/badge/1.3%E4%B8%87%E6%94%B6%E8%97%8F-%E9%85%B7%E5%AE%89-brightgreen?style=for-the-badge&logo=android)  ![Search](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83%E5%AE%9A%E5%88%B6%E7%89%88-search-4285F4?style=for-the-badge&logo=google&logoColor=4285F4) ![Wechat](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83-%E6%90%9C%E4%B8%80%E6%90%9C-FA5151?style=for-the-badge&logo=wechat) ![xhs](https://img.shields.io/badge/%E8%BF%9B%E5%8C%96%E7%9A%84%E9%B9%B0-%E5%B0%8F%E7%BA%A2%E4%B9%A6-FF2442?style=for-the-badge&logo=xiaohongshu) ![QQ](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83-QQ%E9%A2%91%E9%81%93-089CFF?style=for-the-badge&logo=Tencentqq)
 
 <details>
-  <summary> 点击展开更新内容，最后更新于 2024-10-20 19:38 </summary>
+  <summary> 点击展开更新内容，最后更新于 2024-10-25 10:39 </summary>
 
 > 1. 新增 ⭐ 标记，有该标记的版本只适用特定品牌的机型
 
@@ -38,7 +38,7 @@
 
 
 
-### ![微信](https://gitee.com/ww3w/dzb/raw/master/iconsSE/wechat.svg) 微信
+### ![weixin](https://gitee.com/ww3w/dzb/raw/master/iconsSE/wechat.svg) 微信
 
 ---
 
@@ -130,7 +130,7 @@ OPPO手表 定制版 v9.0.1
 > 需要使用手机 QQ 扫码登录，只有基本的聊天以及相关功能
 
 
-### ![知乎](https://gitee.com/ww3w/dzb/raw/master/iconsSE/zhihu.svg) 知乎
+### ![zhihu](https://gitee.com/ww3w/dzb/raw/master/iconsSE/zhihu.svg) 知乎
 
 ---
 
@@ -166,7 +166,7 @@ OPPO Find X6 Pro 定制版 v8.23.0(11764) • 🔥
 小米 14 Ultra 定制版 v8.59.0 • 🔥
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/weibo.svg) 微博
+### ![weibo](https://gitee.com/ww3w/dzb/raw/master/icons/weibo.svg) 微博
 
 ---
 
@@ -221,7 +221,7 @@ OPPO Find X5 Pro 定制版 v11.2.1
 华为 Pura 70 Ultra 定制版 v13.2.0 • 🔥
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/xiaohongshu.svg) 小红书
+### ![xiaohongshu](https://gitee.com/ww3w/dzb/raw/master/icons/xiaohongshu.svg) 小红书
 
 ---
 
@@ -261,7 +261,7 @@ OPPO Find X5 Pro 定制版 v11.2.1
 小米 13 Ultra 定制版 v7.68.0.2 • 🔥
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/qqzone.svg) QQ空间
+### ![qqzone](https://gitee.com/ww3w/dzb/raw/master/iconsSE/qqzone.svg) QQ空间
 
 ---
 
@@ -275,7 +275,7 @@ OPPO Find X5 Pro 定制版 v11.2.1
 
 努比亚定制版 v4.1.2 .953
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/moji.svg) 墨迹天气
+### ![moji](https://gitee.com/ww3w/dzb/raw/master/iconsSE/moji.svg) 墨迹天气
 
 ---
 
@@ -304,7 +304,7 @@ TCL定制版 v1.1.14
 > 没有广告，可看实景，天气支持语音播放和多个桌面小部件
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/wynews.svg) 网易新闻
+### ![wynews](https://gitee.com/ww3w/dzb/raw/master/iconsSE/wynews.svg) 网易新闻
 
 ---
 
@@ -322,7 +322,7 @@ TCL定制版 v1.1.14
 荣耀30 定制版 v68.1.0 •• 🔥
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/ZAKER.svg) ZAKER
+### ![ZAKER](https://gitee.com/ww3w/dzb/raw/master/iconsSE/ZAKER.svg) ZAKER
 
 ---
 
@@ -331,14 +331,14 @@ TCL定制版 v1.1.14
 联想定制版 v4.0.2
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/xinlang.svg) 新浪新闻
+### ![xinlang](https://gitee.com/ww3w/dzb/raw/master/iconsSE/xinlang.svg) 新浪新闻
 
 ---
 
 OPPO手表 定制版 v0.0.2
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/sohunews.svg) 搜狐资讯
+### ![sohunews](https://gitee.com/ww3w/dzb/raw/master/iconsSE/sohunews.svg) 搜狐资讯
 
 ---
 
@@ -347,7 +347,7 @@ OPPO手表 定制版 v0.0.2
 三星曲面屏定制版 v2.0
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/toutiao.svg) 今日头条
+### ![toutiao](https://gitee.com/ww3w/dzb/raw/master/icons/toutiao.svg) 今日头条
 
 ---
 
@@ -392,7 +392,7 @@ vivo X90 Pro+ 定制版 v8.5.1 • 🔥
 > 没有信息流广告和我的界面的横幅广告，运存和存储占用比普通版本低很多，不显示 IP 属地
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/qqnews.svg) 腾讯新闻
+### ![qqnews](https://gitee.com/ww3w/dzb/raw/master/iconsSE/qqnews.svg) 腾讯新闻
 
 ---
 
@@ -417,7 +417,7 @@ Realme Q3 定制版 v6.1.30
 OPPO Find X5 Pro 天玑版 v6.1.30 🔥
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/yidian.svg) 一点资讯
+### ![yidian](https://gitee.com/ww3w/dzb/raw/master/iconsSE/yidian.svg) 一点资讯
 
 ---
 
@@ -428,7 +428,7 @@ OPPO Find X5 Pro 天玑版 v6.1.30 🔥
 小米定制版 v5.1.2 .2
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/baidu.svg) 百度
+### ![baidu](https://gitee.com/ww3w/dzb/raw/master/iconsSE/baidu.svg) 百度
 
 ---
 
@@ -463,7 +463,7 @@ Motorola Razr 40 Ultra 定制版 v13.2.0.10 • 🔥
 > 广告和占用比谷歌版本少，可以正常使用所有服务，默认显示为最新版本
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/tieba.svg) 百度贴吧
+### ![tieba](https://gitee.com/ww3w/dzb/raw/master/icons/tieba.svg) 百度贴吧
 
 ---
 
@@ -473,7 +473,7 @@ Motorola Razr 40 Ultra 定制版 v13.2.0.10 • 🔥
 > 打开主流贴吧有一定概率一直转圈，打开小吧没问题
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/chubao.svg) 触宝输入法
+### ![chubao](https://gitee.com/ww3w/dzb/raw/master/iconsSE/chubao.svg) 触宝输入法
 
 ---
 
@@ -489,7 +489,7 @@ HTC定制版 v5.8.0.0
 HTC定制版 v5.9.9.9
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/sougou.svg) 搜狗输入法
+### ![sougou](https://gitee.com/ww3w/dzb/raw/master/iconsSE/sougou.svg) 搜狗输入法
 
 ---
 
@@ -627,7 +627,7 @@ OPPO Find X5 Pro 天玑版 v8.32.0222.22022418 🔥
 三星 S23 Ultra 定制版 v10.32.38.202303100941 • 🔥
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/iflytek.svg) 讯飞输入法
+### ![iflytek](https://gitee.com/ww3w/dzb/raw/master/iconsSE/iflytek.svg) 讯飞输入法
 
 ---
 
@@ -723,7 +723,7 @@ OPPO定制版 v8.4.8078 •
 > 内置了离线语音包，没有剪切板功能，安装包体积为 111M
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/baiduinput.svg) 百度输入法
+### ![baiduinput](https://gitee.com/ww3w/dzb/raw/master/iconsSE/baiduinput.svg) 百度输入法
 
 ---
 
@@ -798,7 +798,9 @@ OPPO Find X5 Pro 定制版 v8.5.28.97 • 🔥
 
 小米定制版 v10.6.122.1667 ••
 
-小米定制版 v10.6.122.1856 •• 🔥
+小米定制版 v10.6.122.1856 ••
+
+小米定制版 v10.6.123.303 •• 🔥
 
 荣耀定制版 v8.2.43.43 •
 
@@ -827,7 +829,10 @@ OPPO定制版 v8.5.300.523 •
 
 OPPO 定制版 v8.5.300.551 •
 
-OPPO 定制版 v8.5.300.572 • 🔥
+OPPO 定制版 v8.5.300.572 •
+
+OPPO 定制版 v8.5.300.602 • 🔥
+> 图标更通透和清晰
 
 vivo定制版 v8.5.203.559 •
 
@@ -849,11 +854,13 @@ vivo定制版 v8.5.203.2859 •
 索尼 Xperia 1 V 定制版 v10.9.101.143 •
 > Target API 由 33 升级到 34，系统版本要求 Android 13 及以上
 
-索尼 Xperia 1 V 定制版 v10.9.101.145 • 🔥
+索尼 Xperia 1 V 定制版 v10.9.101.145 •
+
+索尼 Xperia 1 V 定制版 v10.9.101.147 • 🔥
 > 系统版本要求 Android 13 及以上，建议部分用户使用 126 版本
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/wps-color.svg) WPS Office
+### ![wps-color](https://gitee.com/ww3w/dzb/raw/master/iconsSE/wps-color.svg) WPS Office
 
 ---
 
@@ -1012,11 +1019,14 @@ OPPO Pad定制版 v13.18.0 🔥
 西安交大定制版 v13.33.0 🔥
 > 定制蓝色图标，可用部分会员功能，UI 简洁美观，没有广告，可与商店版本共存
 
+荣耀 Magic V3 定制版 v13.37.0 • 🔥
+> 相比于普通版本，没有更新检测，版本信息里有 OEM 标记
+
 企业定制版 v13.37.6
 > 蓝色图标版本，其实就是黑金图标版本的升级版本
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/yzoffice.svg) 永中Office
+### ![yzoffice](https://gitee.com/ww3w/dzb/raw/master/iconsSE/yzoffice.svg) 永中Office
 
 ---
 
@@ -1028,18 +1038,22 @@ OPPO Pad定制版 v13.18.0 🔥
 一加 12 定制版 v14.141.22 • 🔥
 > 支持编辑功能，完全免费，没有广告，没有桌面图标，不限机型，名称为"文件随心开"
 
-OPPO Find X7 Ultra 定制版 v15.0.0 • 🔥
-> 卡片模式的观感非常不错，可使用部分会员功能，比如转换为 PDF 格式
+OPPO Find X7 Ultra 定制版 v15.0.0 •
+
+一加 Ace 3 Pro 定制版 v15.4.14 • 🔥
+> Target API 35，支持编辑功能，名称变更为"文档"
+
+> 可使用部分会员功能，比如格式转换丶拆分合并丶导出图片
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/tianyancha.svg) 天眼查
+### ![tianyancha](https://gitee.com/ww3w/dzb/raw/master/iconsSE/tianyancha.svg) 天眼查
 
 ---
 
 OPPO Find X5 Pro定制版 v12.40.1 •
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/neteasemail.svg) 网易邮箱大师
+### ![neteasemail](https://gitee.com/ww3w/dzb/raw/master/iconsSE/neteasemail.svg) 网易邮箱大师
 
 ---
 
@@ -1059,7 +1073,7 @@ OPPO Find X5 Pro定制版 v12.40.1 •
 一加7T 定制版 v6.9.3
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/youdao.svg) 有道云笔记
+### ![youdao](https://gitee.com/ww3w/dzb/raw/master/iconsSE/youdao.svg) 有道云笔记
 
 ---
 
@@ -1068,7 +1082,7 @@ OPPO Find X5 Pro定制版 v12.40.1 •
 360手机 定制版 v6.6.6 •
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/youdao2.svg) 有道词典
+### ![youdao2](https://gitee.com/ww3w/dzb/raw/master/iconsSE/youdao2.svg) 有道词典
 
 ---
 
@@ -1076,7 +1090,7 @@ OPPO Find X5 Pro定制版 v12.40.1 •
 > 不提示升级，不能登录，勉强能用
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/fy.svg) 微软翻译
+### ![fy](https://gitee.com/ww3w/dzb/raw/master/iconsSE/fy.svg) 微软翻译
 
 ---
 
@@ -1085,7 +1099,7 @@ OPPO Find X5 Pro定制版 v12.40.1 •
 华为定制版 v3.3.460i • 🔥
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/shaomiao.svg) 扫描全能王
+### ![shaomiao](https://gitee.com/ww3w/dzb/raw/master/iconsSE/shaomiao.svg) 扫描全能王
 
 ---
 
@@ -1102,7 +1116,7 @@ OPPO Find X5 Pro定制版 v12.40.1 •
 > 功能全面，广告相对较少，可以和普通版本共存
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/sdmaid.svg) SD Maid
+### ![sdmaid](https://gitee.com/ww3w/dzb/raw/master/iconsSE/sdmaid.svg) SD Maid
 
 ---
 
@@ -1110,7 +1124,7 @@ OPPO Find X5 Pro定制版 v12.40.1 •
 > 没有广告，支持简体中文，包名里面有 "huawei" 标记
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/liebao.svg) 猎豹清理大师
+### ![liebao](https://gitee.com/ww3w/dzb/raw/master/iconsSE/liebao.svg) 猎豹清理大师
 
 ---
 
@@ -1119,7 +1133,7 @@ OPPO Find X5 Pro定制版 v12.40.1 •
 小米定制版 v5.8.5
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/wanneng.svg) 万能遥控
+### ![wanneng](https://gitee.com/ww3w/dzb/raw/master/iconsSE/wanneng.svg) 万能遥控
 
 ---
 
@@ -1130,7 +1144,7 @@ OPPO Find X5 Pro定制版 v12.40.1 •
 小米定制版 v6.1.7 • 🔥
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/iReader.svg) 掌阅
+### ![iReader](https://gitee.com/ww3w/dzb/raw/master/iconsSE/iReader.svg) 掌阅
 
 ---
 
@@ -1188,7 +1202,7 @@ Moto X40 定制版 v7.63.0 •• 🔥
 > 图标纯净，没有广告，能朗读本地书籍，全量插件覆盖，更新检测始终是最新版本
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/wxread.svg) 微信读书
+### ![wxread](https://gitee.com/ww3w/dzb/raw/master/icons/wxread.svg) 微信读书
 
 ---
 
@@ -1203,7 +1217,7 @@ Moto X40 定制版 v7.63.0 •• 🔥
 水墨屏定制版 v1.9.3 •• 🔥
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/miguread.svg) 咪咕阅读
+### ![miguread](https://gitee.com/ww3w/dzb/raw/master/iconsSE/miguread.svg) 咪咕阅读
 
 ---
 
@@ -1212,14 +1226,14 @@ Moto X40 定制版 v7.63.0 •• 🔥
 魅族定制版 v7.9.7
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/Anyview.svg) Anyview阅读器
+### ![Anyview](https://gitee.com/ww3w/dzb/raw/master/iconsSE/Anyview.svg) Anyview阅读器
 
 ---
 
 诺基亚定制版 v2.28 🔥
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/qqread.svg) QQ阅读
+### ![qqread](https://gitee.com/ww3w/dzb/raw/master/iconsSE/qqread.svg) QQ阅读
 
 ---
 
@@ -1240,7 +1254,7 @@ OPPO定制版 v1.1.1.300 ••
 水墨屏 定制版 v1.0.98
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/duokan.svg) 多看阅读
+### ![duokan](https://gitee.com/ww3w/dzb/raw/master/icons/duokan.svg) 多看阅读
 
 ---
 
@@ -1259,7 +1273,7 @@ OPPO定制版 v1.1.1.300 ••
 红米K50 Pro 定制版 v6.6.0.25 • 🔥
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/qidian.svg) 起点读书
+### ![qidian](https://gitee.com/ww3w/dzb/raw/master/iconsSE/qidian.svg) 起点读书
 
 ---
 
@@ -1270,7 +1284,7 @@ OPPO定制版 v1.1.1.300 ••
 > 广告极少，没有更新提示，针对墨水屏进行了专门优化
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/shuqi.svg) 书旗小说
+### ![shuqi](https://gitee.com/ww3w/dzb/raw/master/iconsSE/shuqi.svg) 书旗小说
 
 ---
 
@@ -1281,14 +1295,14 @@ OPPO定制版 v10.6.9 .67
 魅族Note8 定制版 v10.6.3 .58
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/oniu.svg) 网易蜗牛读书
+### ![oniu](https://gitee.com/ww3w/dzb/raw/master/iconsSE/oniu.svg) 网易蜗牛读书
 
 ---
 
 水墨屏定制版 v1.0.0 🔥
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/zhuishu.svg) 追书神器
+### ![zhuishu](https://gitee.com/ww3w/dzb/raw/master/iconsSE/zhuishu.svg) 追书神器
 
 ---
 
@@ -1297,7 +1311,7 @@ OPPO定制版 v10.6.9 .67
 联想定制版 v2.0.5
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/xiaoshuo.svg) 番茄免费小说
+### ![xiaoshuo](https://gitee.com/ww3w/dzb/raw/master/iconsSE/xiaoshuo.svg) 番茄免费小说
 
 ---
 
@@ -1315,7 +1329,7 @@ vivo X100 Ultra 定制版 v5.5.3.99 • 🔥
 > API 级别升级到 33，新增漫画丶书荒广场等功能，检测更新始终为最新版本
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/wangyiyun.svg) 网易云音乐
+### ![wangyiyun](https://gitee.com/ww3w/dzb/raw/master/icons/wangyiyun.svg) 网易云音乐
 
 ---
 
@@ -1384,7 +1398,7 @@ OPPO手表定制版 v2.9.46
 > 更新车机服务组件和多媒体解码组件，显著提升听歌体验
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/qqmusic.svg) QQ音乐
+### ![qqmusic](https://gitee.com/ww3w/dzb/raw/master/icons/qqmusic.svg) QQ音乐
 
 ---
 
@@ -1479,7 +1493,7 @@ MIUI定制版 v4.0.1 .3
 > 相比于普通版本，图标里多了三星字样，优化了三星设备的发热和耗电问题
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/kugou.svg) 酷狗音乐
+### ![kugou](https://gitee.com/ww3w/dzb/raw/master/icons/kugou.svg) 酷狗音乐
 
 ---
 
@@ -1499,7 +1513,7 @@ MIUI定制版 v4.0.1 .3
 车机定制版 v5.0.1 •• 🔥
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/kuwo.svg) 酷我音乐
+### ![kuwo](https://gitee.com/ww3w/dzb/raw/master/iconsSE/kuwo.svg) 酷我音乐
 
 ---
 
@@ -1522,7 +1536,7 @@ Moto Razr 2022 定制版 v6.8.9.0 • 🔥
 > 组件更新，支持蝰蛇音效丶下拉搜歌曲和本地歌曲等功能，检测升级始终为最新版本
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/Kge.svg) 全民K歌
+### ![Kge](https://gitee.com/ww3w/dzb/raw/master/iconsSE/Kge.svg) 全民K歌
 
 ---
 
@@ -1531,7 +1545,7 @@ TV定制版 v4.3.2 .1
 小爱音箱Pro8 定制版 v4.2.5 .3 🔥
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/UC.svg) UC浏览器
+### ![UC](https://gitee.com/ww3w/dzb/raw/master/iconsSE/UC.svg) UC浏览器
 
 ---
 
@@ -1582,7 +1596,7 @@ OPPO Find X5 Pro定制版 v13.4.8.1128
 > Target API 33，安装包仅22M，没有广告，没有更新检测，没有游戏丶直播丶网盘等功能
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/qqbrowser.svg) QQ浏览器
+### ![qqbrowser](https://gitee.com/ww3w/dzb/raw/master/iconsSE/qqbrowser.svg) QQ浏览器
 
 ---
 
@@ -1636,7 +1650,7 @@ OPPO K10定制版 v12.1.1.1950 • 🔥
 > 安装包仅 35M，Target API 31，偶尔有开屏广告，检测更新始终为最新版本
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/netdisk.svg) 百度网盘
+### ![netdisk](https://gitee.com/ww3w/dzb/raw/master/iconsSE/netdisk.svg) 百度网盘
 
 ---
 
@@ -1743,7 +1757,7 @@ TV大屏定制版 v1.2.0
 > 精简版本，安装包 93.5M ，可以简单当做是有了资料备份和部分播放功能的内部版
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/xunlei.svg) 迅雷
+### ![xunlei](https://gitee.com/ww3w/dzb/raw/master/iconsSE/xunlei.svg) 迅雷
 
 ---
 
@@ -1751,7 +1765,7 @@ TV大屏定制版 v1.2.0
 > 支持华为账号登录和华为钱包支付，另外，该版本主打下载功能，不支持迅雷网盘
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/weiyun.svg) 微云
+### ![weiyun](https://gitee.com/ww3w/dzb/raw/master/iconsSE/weiyun.svg) 微云
 
 ---
 
@@ -1761,7 +1775,7 @@ TV大屏定制版 v1.2.0
 > @凌霄 2023-7-20 未发现强制更新，检测更新始终是最新版本，不过有点略微限速 
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/mobile2.svg) 中国移动云盘
+### ![mobile2](https://gitee.com/ww3w/dzb/raw/master/iconsSE/mobile2.svg) 中国移动云盘
 
 ---
 
@@ -1770,7 +1784,7 @@ TV大屏定制版 v1.2.0
 三星定制版 v8.1.1 • 🔥
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/gaode.svg) 高德地图
+### ![gaode](https://gitee.com/ww3w/dzb/raw/master/icons/gaode.svg) 高德地图
 
 ---
 
@@ -1881,7 +1895,7 @@ vivo X100 Ultra 定制版 v12.10.61.3044 • 🔥
 > 基本没有广告，支持打车功能，检测更新始终为最新版本
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/baidumap.svg) 百度地图
+### ![baidumap](https://gitee.com/ww3w/dzb/raw/master/iconsSE/baidumap.svg) 百度地图
 
 ---
 
@@ -1966,7 +1980,7 @@ OPPO Find X6 Pro 定制版 v15.12.22 •
 vivo X100 Pro 定制版 v15.12.22 • 🔥
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/Tencentmap.svg) 腾讯地图
+### ![Tencentmap](https://gitee.com/ww3w/dzb/raw/master/iconsSE/Tencentmap.svg) 腾讯地图
 ---
 
 车机定制版 v3.2.0.356 
@@ -1976,7 +1990,7 @@ vivo X100 Pro 定制版 v15.12.22 • 🔥
 红魔6游戏手机 定制版 v9.1.2 🔥
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/carlife.svg) 百度Carlife
+### ![carlife](https://gitee.com/ww3w/dzb/raw/master/iconsSE/carlife.svg) 百度Carlife
 
 ---
 
@@ -1992,7 +2006,7 @@ vivo X100 Pro 定制版 v15.12.22 • 🔥
 > 图标里有 "三星版" 字样，部分设备会提示需要更新车联服务
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/mobile.svg) 中国移动
+### ![mobile](https://gitee.com/ww3w/dzb/raw/master/iconsSE/mobile.svg) 中国移动
 
 ---
 
@@ -2000,7 +2014,7 @@ vivo X100 Pro 定制版 v15.12.22 • 🔥
 > @枫叶 登录受限，升级提示
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/xiecheng.svg) 携程旅行
+### ![xiecheng](https://gitee.com/ww3w/dzb/raw/master/iconsSE/xiecheng.svg) 携程旅行
 
 ---
 
@@ -2013,7 +2027,7 @@ vivo X100 Pro 定制版 v15.12.22 • 🔥
 OPPO Find X5 Pro 定制版 v8.29.0
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/qunaer.svg) 去哪儿旅行
+### ![qunaer](https://gitee.com/ww3w/dzb/raw/master/iconsSE/qunaer.svg) 去哪儿旅行
 
 ---
 
@@ -2026,7 +2040,7 @@ OPPO Find X5 Pro 定制版 v8.29.0
 小米11 定制版 v9.1.3
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/yingyongbao01.svg) 应用宝
+### ![yingyongbao01](https://gitee.com/ww3w/dzb/raw/master/iconsSE/yingyongbao01.svg) 应用宝
 
 ---
 
@@ -2044,7 +2058,7 @@ OPPO Find X5 Pro 定制版 v8.29.0
 > 该版本可能存在不能安装的问题，比如 MIUI 14 就不能安装
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/taobao.svg) 淘宝
+### ![taobao](https://gitee.com/ww3w/dzb/raw/master/icons/taobao.svg) 淘宝
 
 ---
 
@@ -2146,14 +2160,14 @@ OPPO 定制版 v10.35.10 • 🔥
 > Target API 33，图标里有"百亿秒杀节"字样
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/tianmao.svg) 天猫
+### ![tianmao](https://gitee.com/ww3w/dzb/raw/master/iconsSE/tianmao.svg) 天猫
 
 ---
 
 华为Mate 40 Pro 定制版 v9.2.0.10
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/jingdong.svg) 京东
+### ![jingdong](https://gitee.com/ww3w/dzb/raw/master/iconsSE/jingdong.svg) 京东
 
 ---
 
@@ -2199,7 +2213,7 @@ iQOO12 定制版 v12.0.10 • 🔥
 > 所有功能均可正常使用，没有"版本停止维护"的提示
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/pdd.svg) 拼多多
+### ![pdd](https://gitee.com/ww3w/dzb/raw/master/icons/pdd.svg) 拼多多
 
 ---
 
@@ -2294,7 +2308,9 @@ OPPO Find X2 Pro 定制版 v4.67.2 🔥
 
 官方内部版 v7.26.0 ••
 
-官方内部版 v7.28.0 •• 🔥
+官方内部版 v7.28.0 ••
+
+官方内部版 v7.30.0 •• 🔥
 > 刷新版本号，图标纯净，没有开屏广告，没有多多视频
 
 > 部分用户存在云控现象，遇到的可以回退到旧版本
@@ -2311,7 +2327,7 @@ OPPO Find X5 Pro 定制版 v5.66.1 •
 华为 Pura 70 Ultra 定制版 v6.6.1 • 🔥
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/xianyu.svg) 闲鱼
+### ![xianyu](https://gitee.com/ww3w/dzb/raw/master/iconsSE/xianyu.svg) 闲鱼
 ---
 
 三星定制版 v7.2.10
@@ -2321,7 +2337,7 @@ iQOO12 定制版 v7.14.69 • 🔥
 > Target API 33，首次安装并登录后的存储占用约为 252 MB，安装包仅为 49 MB
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/suning.svg) 苏宁易购
+### ![suning](https://gitee.com/ww3w/dzb/raw/master/iconsSE/suning.svg) 苏宁易购
 
 ---
 
@@ -2330,13 +2346,13 @@ iQOO12 定制版 v7.14.69 • 🔥
 华为定制版 v7.2.2 .1
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/taote.svg) 淘特
+### ![taote](https://gitee.com/ww3w/dzb/raw/master/iconsSE/taote.svg) 淘特
 ---
 
 红米K50 定制版 v4.12.800.1
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/mijia.svg) 米家
+### ![mijia](https://gitee.com/ww3w/dzb/raw/master/iconsSE/mijia.svg) 米家
 
 ---
 
@@ -2345,7 +2361,7 @@ iQOO12 定制版 v7.14.69 • 🔥
 小米电视定制版 v2.2.4
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/meituan.svg) 美团
+### ![meituan](https://gitee.com/ww3w/dzb/raw/master/iconsSE/meituan.svg) 美团
 
 ---
 
@@ -2381,14 +2397,14 @@ OPPO K5 定制版 v9.9.3
 > 安装包继续减少至 9.9M，功能上和华为定制版本并无差异
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/eleme.svg) 饿了么
+### ![eleme](https://gitee.com/ww3w/dzb/raw/master/icons/eleme.svg) 饿了么
 
 ---
 
 一加9R 定制版 v9.4.32
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/dianping.svg) 大众点评
+### ![dianping](https://gitee.com/ww3w/dzb/raw/master/iconsSE/dianping.svg) 大众点评
 
 ---
 
@@ -2408,7 +2424,7 @@ OPPO Find X5 Pro 定制版 v10.46.30 •
 > 安装包体积仅 38M，Target API 33
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/wph.svg) 唯品会
+### ![wph](https://gitee.com/ww3w/dzb/raw/master/iconsSE/wph.svg) 唯品会
 
 ---
 
@@ -2426,7 +2442,7 @@ OPPO Find X5 Pro 定制版 v10.46.30 •
 > Target API 33
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/58.svg) 58同城
+### ![58](https://gitee.com/ww3w/dzb/raw/master/iconsSE/58.svg) 58同城
 
 ---
 
@@ -2439,7 +2455,7 @@ OPPO Find X5 Pro 定制版 v10.46.30 •
 OPPO Find X5 Pro 定制版 v10.4.0 🔥
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/alipay.svg) 支付宝
+### ![alipay](https://gitee.com/ww3w/dzb/raw/master/iconsSE/alipay.svg) 支付宝
 
 ---
 
@@ -2501,7 +2517,7 @@ OPPO 定制版 v10.6.6.8000 • 🔥
 > 升级组件后的版本依然比普通版本简洁，而且没有"检测更新"功能
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/KMPlayer.svg) KMPlayer
+### ![KMPlayer](https://gitee.com/ww3w/dzb/raw/master/iconsSE/KMPlayer.svg) KMPlayer
 
 ---
 
@@ -2510,7 +2526,7 @@ OPPO 定制版 v10.6.6.8000 • 🔥
 三星定制版 v40.12.080 •• 🔥
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/qiaoy.svg) 巧影
+### ![qiaoy](https://gitee.com/ww3w/dzb/raw/master/iconsSE/qiaoy.svg) 巧影
 
 ---
 
@@ -2519,7 +2535,7 @@ OPPO 定制版 v10.6.6.8000 • 🔥
 华为定制版 v4.13.0 .15815
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/youku.svg) 优酷视频
+### ![youku](https://gitee.com/ww3w/dzb/raw/master/iconsSE/youku.svg) 优酷视频
 
 ---
 
@@ -2588,8 +2604,11 @@ OPPO Find X5 Pro 天玑版 v10.0.0.111 •
 
 小米 14 Ultra 定制版 v11.0.29.202307 • 🔥
 
+vivo X200 Pro 定制版 v11.0.29.202307 • 🔥
+> 采用新图标，比较纯净，安装包体积继续减少
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/iqiyi.svg) 爱奇艺
+
+### ![iqiyi](https://gitee.com/ww3w/dzb/raw/master/iconsSE/iqiyi.svg) 爱奇艺
 
 ---
 
@@ -2621,7 +2640,7 @@ iQOO Z9T 定制版 v14.11.0 • 🔥
 > API 级别 33，检测更新始终为最新版本
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/TencentVideo.svg) 腾讯视频
+### ![TencentVideo](https://gitee.com/ww3w/dzb/raw/master/iconsSE/TencentVideo.svg) 腾讯视频
 
 ---
 
@@ -2681,7 +2700,7 @@ Realme Q3 定制版 v7.5.0 .19180
 > 精简掉了底栏的"热点"功能，新增了华为推送服务，检测更新始终是最新版本
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/mangguotv.svg) 芒果TV
+### ![mangguotv](https://gitee.com/ww3w/dzb/raw/master/iconsSE/mangguotv.svg) 芒果TV
 
 ---
 
@@ -2702,7 +2721,7 @@ TV定制版 v5.10.103
 > Target API 31，安装包仅 40M 左右，支持小米账号登录，移除了海量广告和推广内容
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/sohu.svg) 搜狐视频
+### ![sohu](https://gitee.com/ww3w/dzb/raw/master/iconsSE/sohu.svg) 搜狐视频
 
 ---
 
@@ -2713,7 +2732,7 @@ TV定制版 v5.10.103
 魅族18 Pro 定制版 v15.1.6 🔥
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/PP.svg) PP视频
+### ![PP](https://gitee.com/ww3w/dzb/raw/master/iconsSE/PP.svg) PP视频
 
 ---
 
@@ -2724,7 +2743,7 @@ Nubia Z11 定制版 v6.0.1
 Nubia定制版 v6.0.0
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/leshi.svg) 乐视视频
+### ![leshi](https://gitee.com/ww3w/dzb/raw/master/iconsSE/leshi.svg) 乐视视频
 
 ---
 
@@ -2733,7 +2752,7 @@ Nubia定制版 v6.0.0
 360手机 定制版 v50.7.2
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/mgvideo.svg) 咪咕视频
+### ![mgvideo](https://gitee.com/ww3w/dzb/raw/master/iconsSE/mgvideo.svg) 咪咕视频
 
 ---
 
@@ -2741,7 +2760,7 @@ Nubia定制版 v6.0.0
 > 横屏，无广告，适用于 Android 12 以下设备
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/ixigua.svg) 西瓜视频
+### ![ixigua](https://gitee.com/ww3w/dzb/raw/master/iconsSE/ixigua.svg) 西瓜视频
 
 ---
 
@@ -2751,7 +2770,7 @@ OPPO 手表 定制版 v2.0.6
 > 没有任何广告，支持搜索丶评论丶离线缓存丶免流服务，安装包仅 8 M，日常占用不到 50 M
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/bilibili.svg) 哔哩哔哩
+### ![bilibili](https://gitee.com/ww3w/dzb/raw/master/icons/bilibili.svg) 哔哩哔哩
 
 ---
 
@@ -2836,7 +2855,7 @@ Moto Razr 2022 定制版 v6.40.0 • 🔥
 OPPO Find X7 Ultra 定制版 v6.56.0 • 🔥
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/huya.svg) 虎牙直播
+### ![huya](https://gitee.com/ww3w/dzb/raw/master/icons/huya.svg) 虎牙直播
 
 ---
 
@@ -2844,7 +2863,7 @@ OPPO Find X7 Ultra 定制版 v6.56.0 • 🔥
 > Android 9 以上会闪退
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/douyu.svg) 斗鱼直播
+### ![douyu](https://gitee.com/ww3w/dzb/raw/master/iconsSE/douyu.svg) 斗鱼直播
 
 ---
 
@@ -2852,7 +2871,7 @@ OPPO Find X7 Ultra 定制版 v6.56.0 • 🔥
 > 下架前最后一版
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/douyin.svg) 抖音
+### ![douyin](https://gitee.com/ww3w/dzb/raw/master/icons/douyin.svg) 抖音
 
 ---
 
@@ -2951,8 +2970,11 @@ vivo X100 Pro 定制版 v23.7.2 • 🔥
 
 > 优化分屏体验，没有更新提示
 
+vivo X200 Pro 定制版 v23.7.2 • 🔥
+> 放宽登录限制，延长版本使用有效期
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/kuaishou.svg) 快手
+
+### ![kuaishou](https://gitee.com/ww3w/dzb/raw/master/icons/kuaishou.svg) 快手
 
 ---
 
@@ -2988,7 +3010,7 @@ OPPO Find X5 Pro 定制版 v7.6.10.6592 • 🔥
 > 非常简洁，安装包 12 M，没有广告，没有购物，没有 IP 属地显示，没有小程序等功能，适合只看短视频的用户
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/lebotp.svg) 乐播投屏
+### ![lebotp](https://gitee.com/ww3w/dzb/raw/master/iconsSE/lebotp.svg) 乐播投屏
 
 ---
 
@@ -2997,14 +3019,14 @@ OPPO电视 定制版 v8.6.21 🔥
 夏普TV 定制版 v8.2.04
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/miaopai.svg) 秒拍
+### ![miaopai](https://gitee.com/ww3w/dzb/raw/master/iconsSE/miaopai.svg) 秒拍
 
 ---
 
 小米定制版 v6.6.0.1
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/qingting.svg) 蜻蜓FM
+### ![qingting](https://gitee.com/ww3w/dzb/raw/master/iconsSE/qingting.svg) 蜻蜓FM
 
 ---
 
@@ -3025,7 +3047,7 @@ OPPO电视 定制版 v8.6.21 🔥
 三星深度定制版 v1.6.3 • 🔥
 
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/iconsSE/ximalaya.svg) 喜马拉雅
+### ![ximalaya](https://gitee.com/ww3w/dzb/raw/master/iconsSE/ximalaya.svg) 喜马拉雅
 
 ---
 
@@ -3097,14 +3119,14 @@ Hi nova12 SE 定制版 v9.0.41.9 • 🔥
 
 小米 14 Ultra 定制版 v9.0.69.9 • 🔥
 
-### ![2022](https://gitee.com/ww3w/dzb/raw/master/icons/fenxiang.svg) 特别鸣谢
+### ![fenxiang](https://gitee.com/ww3w/dzb/raw/master/icons/fenxiang.svg) 特别鸣谢
 
 ---
 > 感谢以下用户提供的资源和线索，由于不可抗力，部分用户已不可考证，这里一并感谢，@符号后面的是用户ID，排名不分先后
 
 @清风丶丶 @辅导员让我给你 @背俊 @ulijie @数玛闲聊分站 @子墨zimo @FUJIANYUN @膏通 @甜冬SweetWinter @whywhyabcd @深水埗胎专家 @田孙无敌 @q8130723 @手机数码_完美编排  @wushidi @嘟嘟edu @田园童梦hshtc @浪进_ @三月风四月雨不落日 @青柴Chain @凯旋 @AxiG @坏人坏模样 @大货车斯基 @晨钟酱  @老毛 @派出索打劫烬 @……
 
-### ![2022](https://gitee.com/ww3w/dzb/raw/master/icons/zimeiti.svg) 自媒体内容
+### ![zimeiti](https://gitee.com/ww3w/dzb/raw/master/icons/zimeiti.svg) 自媒体内容
 
 ---
 
