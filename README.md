@@ -1,14 +1,14 @@
 
-![输入图片说明](iconsSE/fengmian.png)
+![封面图片](iconsSE/fengmian.png)
 
 ## 纯净 APP 目录
 
 
 - [**「定制版 APP」目录** ](https://gitee.com/ww3w/dzb/blob/master/dzb.md)
-> 提供所有定制版 APP 各个版本的名称和部分特点，其中还包括定制版 APP 推荐以及读者反馈
+> 提供所有定制版 APP 各个版本的名称和部分特点，其中还包括定制版 APP 推荐以及用户反馈
 
 - [**「版本拐点」目录** ](https://gitee.com/ww3w/dzb/blob/master/bbk.md)
-> 根据测试结果，整理出有明显特征的特定版本，并提供特征说明和下载地址
+> 根据用户反馈以及测试结果，整理出有明显特征的特定版本，并提供特征说明和下载地址
 
 **注：** 点击以上蓝色文字便可快速直达
 
