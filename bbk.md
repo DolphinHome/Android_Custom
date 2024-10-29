@@ -8,7 +8,7 @@
 ![userviews](https://img.shields.io/badge/5%E4%B8%87+-%E8%AE%BF%E9%97%AE%E4%BA%BA%E6%95%B0-brightgreen?style=for-the-badge&logo=gitee&logoColor=C71D23) ![Download](https://img.shields.io/badge/30%E4%B8%87+-%E4%B8%8B%E8%BD%BD%E9%87%8F-3693F3?style=for-the-badge&logo=iCloud&logoColor=3693F3) ![Search](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83%E5%AE%9A%E5%88%B6%E7%89%88-search-4285F4?style=for-the-badge&logo=google&logoColor=4285F4) ![Wechat](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83-%E6%90%9C%E4%B8%80%E6%90%9C-FA5151?style=for-the-badge&logo=wechat) ![xhs](https://img.shields.io/badge/%E8%BF%9B%E5%8C%96%E7%9A%84%E9%B9%B0-%E5%B0%8F%E7%BA%A2%E4%B9%A6-FF2442?style=for-the-badge&logo=xiaohongshu) ![QQ](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83-QQ%E9%A2%91%E9%81%93-089CFF?style=for-the-badge&logo=Tencentqq)
 
 <details>
-  <summary> 点击展开更新内容 最后更新于 2024-10-25 13:59 </summary>
+  <summary> 点击展开更新内容 最后更新于 2024-10-29 20:15 </summary>
 
 > 1. 完善海量细节，新增微信读书丶百度贴吧的推荐版本
 
@@ -444,6 +444,9 @@
 **Android版 v7.82.0** 
 > 第一个支持  **带图评论**  的版本 
 
+**Android版 v7.83.0**  ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg) 
+> @用户反馈 储存占用很低，功能较为全面，没有 AI 功能
+
 **IOS版 v7.4.0**
 > 第一个支持 **新版表情** 的版本 
 
@@ -460,6 +463,8 @@
 
 **Play版 v10.19.0** 
 > Google Play 商店 **下架** 前的最后一版
+
+> 2024 年 10 月末恢复了上架，且不再提供 APK 格式安装包
 
 > 知乎 Play 版本合集：[下载地址](https://pan.lanzoui.com/b0cy3ia5i)
 
@@ -1211,14 +1216,14 @@
 **IOS版 v5.3.5**
 > 第一个支持 **关注页面-好友关注** 的版本，版本ID：866300052
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/fenxiang.svg) 特别鸣谢
+### ![fenxiang](https://gitee.com/ww3w/dzb/raw/master/icons/fenxiang.svg) 特别鸣谢
 
 ---
 > 感谢以下用户提供的资源和线索，@符号后面的是用户ID，排名不分先后
 
 @momo @一名琴师 @莫去币 @千灵 @海北鱼 @马哈Fly @所有热爱折腾的朋友
 
-### ![BFZQ](https://gitee.com/ww3w/dzb/raw/master/icons/cknr.svg) 参考内容
+### ![cknr](https://gitee.com/ww3w/dzb/raw/master/icons/cknr.svg) 参考内容
 
 ---
 
