@@ -8,13 +8,13 @@
 ![userviews](https://img.shields.io/badge/5%E4%B8%87+-%E8%AE%BF%E9%97%AE%E4%BA%BA%E6%95%B0-brightgreen?style=for-the-badge&logo=gitee&logoColor=C71D23) ![Download](https://img.shields.io/badge/30%E4%B8%87+-%E4%B8%8B%E8%BD%BD%E9%87%8F-3693F3?style=for-the-badge&logo=iCloud&logoColor=3693F3) ![Search](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83%E5%AE%9A%E5%88%B6%E7%89%88-search-4285F4?style=for-the-badge&logo=google&logoColor=4285F4) ![Wechat](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83-%E6%90%9C%E4%B8%80%E6%90%9C-FA5151?style=for-the-badge&logo=wechat) ![xhs](https://img.shields.io/badge/%E8%BF%9B%E5%8C%96%E7%9A%84%E9%B9%B0-%E5%B0%8F%E7%BA%A2%E4%B9%A6-FF2442?style=for-the-badge&logo=xiaohongshu) ![QQ](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83-QQ%E9%A2%91%E9%81%93-089CFF?style=for-the-badge&logo=Tencentqq)
 
 <details>
-  <summary> 点击展开更新内容 最后更新于 2024-11-03 19:35 </summary>
+  <summary> 点击展开更新内容 最后更新于 2024-11-07 12:35 </summary>
 
-> 1. 完善海量细节，新增微信读书丶百度贴吧的推荐版本
+> 1. 更新微信推荐版本，详情可看订阅号最新内容
 
-> 2. 新增微信读书丶小红书丶支付宝的"版本通性"内容
+> 2. 完善海量细节，新增微信读书丶百度贴吧的推荐版本
 
-> 3. 补充百度输入法丶酷安丶高德地图的部分版本信息
+> 3. 新增微信读书丶小红书丶支付宝的"版本通性"内容
 
 </details>
 
@@ -47,7 +47,7 @@
 
 > 不考虑小程序功能情况下的比较完美的版本，占用和耗电控制的十分优秀
 
-**Play版 v8.0.15**  ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg)
+**Play版 v8.0.15**
 > 第一个支持 **关怀模式** 的版本
 
 > 第一个支持 **折叠群聊** 的版本
@@ -56,7 +56,7 @@
 
 > @用户反馈 2023年6月21日，该版本不支持公众号视频功能，[原始出处](https://support.qq.com/products/440008/post/168733443926370850/)
  
-**Play版 v8.0.24**
+**Play版 v8.0.24**  ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg)
 > 第一个使用 **xweb 内核** 的版本，整体体验有明显提升
 
 **Play版 v8.0.28**  
@@ -73,7 +73,7 @@
 
 > 因为 8.0.28 版本存储位置修改，实际上在用第三方 APP 打开 **微信接收的文件** 时也会复制一份文件到主目录里
 
-**Play版 v8.0.33** ![beiyong](https://gitee.com/ww3w/dzb/raw/master/icons/beiyong.svg)
+**Play版 v8.0.33**
 > 最后一个支持 **Android 5.0** 的版本，后续版本仅支持 Android 6.0 及以上系统
 
 >  **晨钟酱** 极力推荐！
@@ -86,7 +86,7 @@
 **Play版 v8.0.42**
 > 第一个将 Target API 升级到 **33** 的版本，这是应谷歌商店的要求
 
-**Play版 v8.0.48**
+**Play版 v8.0.48**  ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg)
 > 第一个将自带内核升级为 **Chromium 116** 的版本，现在浏览网页更加丝滑了
 
 > 改善小程序的用户体验，包括优化冷启动速度和提升流畅度  
@@ -1200,6 +1200,9 @@
 
 **Android版 v14.5.0** 
 > 第一个支持收藏 **自定义表情包** 功能的版本，现在可以在评论区极速斗图了 
+
+**Android版 v14.6.0** 
+> 第一个支持 **HDR 效果** 的版本，具体显示为图片左上角有 HDR 标志 
 
 > 酷安 Android 版本合集：[下载地址](https://pan.lanzoui.com/b0cy3gzvc)
 
