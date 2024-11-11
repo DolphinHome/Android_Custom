@@ -8,13 +8,15 @@
 ![userviews](https://img.shields.io/badge/5%E4%B8%87+-%E8%AE%BF%E9%97%AE%E4%BA%BA%E6%95%B0-brightgreen?style=for-the-badge&logo=gitee&logoColor=C71D23) ![Download](https://img.shields.io/badge/30%E4%B8%87+-%E4%B8%8B%E8%BD%BD%E9%87%8F-3693F3?style=for-the-badge&logo=iCloud&logoColor=3693F3) ![Search](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83%E5%AE%9A%E5%88%B6%E7%89%88-search-4285F4?style=for-the-badge&logo=google&logoColor=4285F4) ![Wechat](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83-%E6%90%9C%E4%B8%80%E6%90%9C-FA5151?style=for-the-badge&logo=wechat) ![xhs](https://img.shields.io/badge/%E8%BF%9B%E5%8C%96%E7%9A%84%E9%B9%B0-%E5%B0%8F%E7%BA%A2%E4%B9%A6-FF2442?style=for-the-badge&logo=xiaohongshu) ![QQ](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83-QQ%E9%A2%91%E9%81%93-089CFF?style=for-the-badge&logo=Tencentqq)
 
 <details>
-  <summary> 点击展开更新内容 最后更新于 2024-11-07 12:35 </summary>
+  <summary> 点击展开更新内容 最后更新于 2024-11-11 17:10 </summary>
 
 > 1. 更新微信推荐版本，详情可看订阅号最新内容
 
 > 2. 完善海量细节，新增微信读书丶百度贴吧的推荐版本
 
-> 3. 新增微信读书丶小红书丶支付宝的"版本通性"内容
+> 3. 新增微信读书丶小红书丶支付宝的 **版本通性** 内容
+
+> 4. 新增 Chrome 127 版本，该版本支持 **Manifest V2 扩展** 
 
 </details>
 
@@ -867,6 +869,14 @@
 **IOS版 v6.1.2** 
 > 88VIP可看至臻视频，享受SVIP功能，版本ID：854197447
 
+### ![Chromium](https://gitee.com/ww3w/dzb/raw/master/iconsSE/Chromium.svg) Chromium 浏览器
+---
+
+Chrome v127.0.6533.73
+> 最后一个支持 **Manifest V2 扩展** 的版本，桌面端
+
+> 安装版会弹更新，推荐使用奶酪的 127 便携版本，[下载地址](https://pan.lanzouy.com/ibqno2etcyjg)
+
 
 ### ![gaode](https://gitee.com/ww3w/dzb/raw/master/icons/gaode.svg) 高德地图
 
@@ -1223,6 +1233,7 @@
 
 **IOS版 v5.3.5**
 > 第一个支持 **关注页面-好友关注** 的版本，版本ID：866300052
+
 
 ### ![fenxiang](https://gitee.com/ww3w/dzb/raw/master/icons/fenxiang.svg) 特别鸣谢
 
