@@ -89,7 +89,7 @@
 > 第一个将 Target API 升级到 **33** 的版本，这是应谷歌商店的要求
 
 **Play版 v8.0.48**  ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg)
-> 第一个将自带内核升级为 **Chromium 116** 的版本，现在浏览网页更加丝滑了
+> 第一个将自带内核升级为 **xweb 116** 的版本，现在浏览网页更加丝滑了
 
 > 改善小程序的用户体验，包括优化冷启动速度和提升流畅度  
 
@@ -107,7 +107,7 @@
 **Android版 v8.0.34**
 > 最后一个支持 **Android 5.0** 的版本，后续版本仅支持 Android 6.0 及以上系统
 
-> 第一个将自带内核升级到 **Chromium 107** 的版本
+> 第一个将自带内核升级到 **xweb 107** 的版本
 
 **Android版 v8.0.37**
 > 第一个不再限制 **原图大小** 的版本，以前版本限制为 25 M
@@ -872,7 +872,7 @@
 ### ![Chromium](https://gitee.com/ww3w/dzb/raw/master/iconsSE/Chromium.svg) Chromium 浏览器
 ---
 
-Chrome v127.0.6533.73
+**Chrome v127.0.6533.73** 
 > 最后一个支持 **Manifest V2 扩展** 的版本，桌面端
 
 > 安装版会弹更新，推荐使用奶酪的 127 便携版本，[下载地址](https://pan.lanzouy.com/ibqno2etcyjg)
