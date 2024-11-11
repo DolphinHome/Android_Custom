@@ -12,7 +12,7 @@
 
 > 1. 更新微信推荐版本，详情可看订阅号最新内容
 
-> 2. 完善海量细节，新增微信读书丶百度贴吧的推荐版本
+> 2. 完善海量细节，新增搜狗输入法丶微信读书丶百度贴吧的推荐版本
 
 > 3. 新增微信读书丶小红书丶支付宝的 **版本通性** 内容
 
@@ -604,6 +604,16 @@
 > 最后一个 **页面底部没有广告** 的版本，[下载地址](https://pan.lanzout.com/icfV50tzjire)
 
 
+### ![sougou](https://gitee.com/ww3w/dzb/raw/master/iconsSE/sougou.svg) 搜狗输入法
+
+---
+
+**Play版 v8.31.6**  ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg)
+> 最后一个 **谷歌版本**，目前已下架，[图文测评](https://mp.weixin.qq.com/s/3P0RgPkg7zuiYzHgrELYKA)
+
+> 非常简洁，占用极低，耗电量极少
+
+
 ### ![baiduinput](https://gitee.com/ww3w/dzb/raw/master/iconsSE/baiduinput.svg) 百度输入法
 
 ---
@@ -869,11 +879,11 @@
 **IOS版 v6.1.2** 
 > 88VIP可看至臻视频，享受SVIP功能，版本ID：854197447
 
-### ![Chromium](https://gitee.com/ww3w/dzb/raw/master/iconsSE/Chromium.svg) Chromium 浏览器
+### ![Chrome](https://gitee.com/ww3w/dzb/raw/master/iconsSE/Chrome.svg) Chrome
 ---
 
-**Chrome v127.0.6533.73** 
-> 最后一个支持 **Manifest V2 扩展** 的版本，桌面端
+**Windows版 v127.0.6533.73** 
+> 最后一个支持 **Manifest V2 扩展** 的版本
 
 > 安装版会弹更新，推荐使用奶酪的 127 便携版本，[下载地址](https://pan.lanzouy.com/ibqno2etcyjg)
 
