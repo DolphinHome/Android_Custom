@@ -8,9 +8,9 @@
 ![userviews](https://img.shields.io/badge/5%E4%B8%87+-%E8%AE%BF%E9%97%AE%E4%BA%BA%E6%95%B0-brightgreen?style=for-the-badge&logo=gitee&logoColor=C71D23) ![Download](https://img.shields.io/badge/30%E4%B8%87+-%E4%B8%8B%E8%BD%BD%E9%87%8F-3693F3?style=for-the-badge&logo=iCloud&logoColor=3693F3) ![Search](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83%E5%AE%9A%E5%88%B6%E7%89%88-search-4285F4?style=for-the-badge&logo=google&logoColor=4285F4) ![Wechat](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83-%E6%90%9C%E4%B8%80%E6%90%9C-FA5151?style=for-the-badge&logo=wechat) ![xhs](https://img.shields.io/badge/%E8%BF%9B%E5%8C%96%E7%9A%84%E9%B9%B0-%E5%B0%8F%E7%BA%A2%E4%B9%A6-FF2442?style=for-the-badge&logo=xiaohongshu) ![QQ](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83-QQ%E9%A2%91%E9%81%93-089CFF?style=for-the-badge&logo=Tencentqq)
 
 <details>
-  <summary> 点击展开更新内容 最后更新于 2024-11-11 17:10 </summary>
+  <summary> 点击展开更新内容 最后更新于 2024-11-15 19:20 </summary>
 
-> 1. 更新微信推荐版本，详情可看订阅号最新内容
+> 1. 更新微信推荐版本，具体可看对应版本的图文测评
 
 > 2. 完善海量细节，新增搜狗输入法丶微信读书丶百度贴吧的推荐版本
 
@@ -59,7 +59,7 @@
 > @用户反馈 2023年6月21日，该版本不支持公众号视频功能，[原始出处](https://support.qq.com/products/440008/post/168733443926370850/)
  
 **Play版 v8.0.24**  ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg)
-> 第一个使用 **XWeb 内核** 的版本，整体体验有明显提升
+> 第一个使用 **XWeb 内核** 的版本，整体体验有明显提升，[图文测评](https://mp.weixin.qq.com/s/eZYFKjNrCtUSPdeleovMGA)
 
 **Play版 v8.0.28**  
 > 第一个将 **存储位置** 修改到 **根目录** data 文件夹的版本，存储内容包括视频号缓存丶聊天数据等，需要 Root 权限才能访问
@@ -89,7 +89,7 @@
 > 第一个将 Target API 升级到 **33** 的版本，这是应谷歌商店的要求
 
 **Play版 v8.0.48**  ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg)
-> 第一个将自带内核升级为 **XWeb 116** 的版本，现在浏览网页更加丝滑了
+> 第一个将自带内核升级为 **XWeb 116** 的版本，[图文测评](https://mp.weixin.qq.com/s/eZYFKjNrCtUSPdeleovMGA)
 
 > 改善小程序的用户体验，包括优化冷启动速度和提升流畅度  
 
@@ -612,6 +612,9 @@
 > 最后一个 **谷歌版本**，目前已下架，[图文测评](https://mp.weixin.qq.com/s/3P0RgPkg7zuiYzHgrELYKA)
 
 > 非常简洁，占用极低，耗电量极少
+
+**Windows版 v11.0.0.4909** 
+> 最后一个基本 **没有广告** 的版本，[下载地址](https://csco.lanzouq.com/ipCZL2ef5mpe)
 
 
 ### ![baiduinput](https://gitee.com/ww3w/dzb/raw/master/iconsSE/baiduinput.svg) 百度输入法
