@@ -8,15 +8,15 @@
 ![userviews](https://img.shields.io/badge/5%E4%B8%87+-%E8%AE%BF%E9%97%AE%E4%BA%BA%E6%95%B0-brightgreen?style=for-the-badge&logo=gitee&logoColor=C71D23) ![Download](https://img.shields.io/badge/30%E4%B8%87+-%E4%B8%8B%E8%BD%BD%E9%87%8F-3693F3?style=for-the-badge&logo=iCloud&logoColor=3693F3) ![Search](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83%E5%AE%9A%E5%88%B6%E7%89%88-search-4285F4?style=for-the-badge&logo=google&logoColor=4285F4) ![Wechat](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83-%E6%90%9C%E4%B8%80%E6%90%9C-FA5151?style=for-the-badge&logo=wechat) ![xhs](https://img.shields.io/badge/%E8%BF%9B%E5%8C%96%E7%9A%84%E9%B9%B0-%E5%B0%8F%E7%BA%A2%E4%B9%A6-FF2442?style=for-the-badge&logo=xiaohongshu) ![QQ](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83-QQ%E9%A2%91%E9%81%93-089CFF?style=for-the-badge&logo=Tencentqq)
 
 <details>
-  <summary> 点击展开更新内容 最后更新于 2024-12-17 14:28 </summary>
+  <summary> 点击展开更新内容 最后更新于 2024-12-18 11:48 </summary>
 
-> 1. 新增支付宝的 **碰一碰** 版本以及 TIM 的 **NT架构** 版本
+> 1. 在 Android 版本说明里新增版本合集内容，可以直达豌豆荚历史版本
 
-> 2. 完善海量细节，新增搜狗输入法丶微信读书丶百度贴吧的推荐版本
+> 2. 新增点击 APP 图标可直达对应软件官网，以便获取最新版本
 
-> 3. 新增微信读书丶小红书丶支付宝的 **版本通性** 内容
+> 3. 完善海量细节，新增搜狗输入法丶微信读书丶百度贴吧的推荐版本
 
-> 4. 新增 Chrome 127 版本，该版本支持 **Manifest V2 扩展** 
+> 4. 新增微信读书丶小红书丶支付宝的 **版本通性** 内容
 
 </details>
 
@@ -164,7 +164,7 @@
 
 > 订阅号正式更名为公众号，该改动不影响旧版本的显示
 
-> 微信 Android 版本合集：[下载地址](https://pan.lanzoui.com/b0czwr3qb)
+> 微信 Android 版本合集：[下载地址](https://www.wandoujia.com/apps/596157/history)
 
 **IOS版 v8.0.14** 
 > 第一个支持 **折叠群聊** 的版本
@@ -279,7 +279,7 @@
 **Android版 v9.0.35**
 > 第一个移除掉 **旧版 QQ 频道布局** 的版本，请谨慎更新
 
-> QQ Android 版本合集：[下载地址](https://pan.lanzoui.com/b0czwx5ha)
+> QQ Android 版本合集：[下载地址](https://www.wandoujia.com/apps/566489/history)
 
 **IOS版 v8.8.38**
 > 第一个支持 **QQ频道** 的版本 
@@ -307,6 +307,8 @@
 
 **Android版 v4.0.95**
 > 第一个采用 **NT架构** 的版本，基于 QQ 9.0.95，[图文测评](https://mp.weixin.qq.com/s/lndtVCzKyk9oWB7vp_T3pg)
+
+> TIM Android 版本合集：[下载地址](https://www.wandoujia.com/apps/7461789/history)
 
 
 ### [![weibo](https://gitee.com/ww3w/dzb/raw/master/icons/weibo.svg)](https://weibo.com/) 微博
@@ -347,6 +349,8 @@
 
 **Android版 v12.1.1** 
 > 第一个支持 **Target API 30** 的版本，对应 Android 11
+
+> 微博 Android 版本合集：[下载地址](https://www.wandoujia.com/apps/289255/history)
 
 **IOS 国际版 v4.7.8**  ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg)
 > 最后一个 **国际版本**，从 5.0.0 开始，正式更名为 **轻享版** ，广告极少，上架于 2022 年 06 月 20 日
@@ -431,7 +435,9 @@
 > 在意字样干扰的用户，建议使用 7.56.0 版本，测试于 2024 年 9 月 
 
 **Android版 v7.64.0** 
-> 第一个支持 **多账号切换** 的版本 
+> 第一个支持 **多账号切换** 的版本
+
+> 哔哩哔哩 Android 版本合集：[下载地址](https://www.wandoujia.com/apps/281291/history)
 
 **IOS版 v6.14.0**
 > 最后一个支持手动选择 **ijk 硬解** 的版本，不支持部分新注册账号的视频内容
@@ -464,6 +470,8 @@
 **Android版 v7.83.0**  ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg) 
 > @用户反馈 储存占用很低，功能较为全面，没有 AI 功能
 
+> 小红书 Android 版本合集：[下载地址](https://www.wandoujia.com/apps/6233739/history)
+
 **IOS版 v7.4.0**
 > 第一个支持 **新版表情** 的版本 
 
@@ -494,6 +502,8 @@
 
 **Android版 v8.57.0**  ![beiyong](https://gitee.com/ww3w/dzb/raw/master/icons/beiyong.svg)
 > 第一个将 **Target API** 升级到 33 的版本，[下载地址](https://pan.lanzout.com/i7BLi1s86v0f)
+
+> 知乎 Android 版本合集：[下载地址](https://www.wandoujia.com/apps/584215/history)
 
 **IOS版 v6.5.0**
 > 最后一个 **没有开屏广告** 的版本
@@ -526,7 +536,9 @@
 > 第一个支持 **64位** 的版本，[下载地址](https://pan.lanzoui.com/i7WlL2c8ky1i)
 
 **Android版 v12.20.1** 
-> 第一个支持 **发帖排版，图文混排** 的版本 
+> 第一个支持 **发帖排版，图文混排** 的版本
+
+> 贴吧 Android 版本合集：[下载地址](https://www.wandoujia.com/apps/280375/history)
 
 **IOS 内部版 v1.0.8**
 > 最后一个 **极致精简** 的内部版本，没有广告，不能搜索
@@ -554,7 +566,9 @@
 > Target API 29，架构全兼容，下载请看以上图文测评里的链接
 
 **Android版 v7.53.0**  ![beiyong](https://gitee.com/ww3w/dzb/raw/master/icons/beiyong.svg) 
-> 第一个将 **Target API** 升级到 31 的版本，发布于 2023 年 6 月，[下载地址](https://pan.lanzoui.com/ivlnT1uz35gb) 
+> 第一个将 **Target API** 升级到 31 的版本，发布于 2023 年 6 月，[下载地址](https://pan.lanzoui.com/ivlnT1uz35gb)
+
+> 豆瓣 Android 版本合集：[下载地址](https://www.wandoujia.com/apps/6228447/history)
 
 **IOS版 v7.0.0**  ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg)
 > 最后一个 **相对简洁且能正常使用** 的版本
@@ -569,6 +583,8 @@
 
 **Android版 v8.0.14.07067**  ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg) 
 > 第一个将 **Target API** 升级到 30 的版本，广告极少，发布于 2022 年 7 月，[下载地址](https://pan.lanzout.com/iRfUA1vp7glc) 
+
+> 虎扑 Android 版本合集：[下载地址](https://www.wandoujia.com/apps/284269/history)
 
 
 ### [![wxread](https://gitee.com/ww3w/dzb/raw/master/icons/wxread.svg)](https://weread.qq.com/) 微信读书
@@ -589,6 +605,8 @@
 
 **Android版 v7.2.0**
 > 第一个支持 **微信扫码登录** 的版本，此前版本采用的登录方式是微信授权登录
+
+> 微信读书 Android 版本合集：[下载地址](https://www.wandoujia.com/apps/6631256/history)
 
 **IOS版 v4.3.0**
 > 第一个适配 **深色模式** 的版本
@@ -648,6 +666,8 @@
 
 > 第一个新增 **VIP 功能** 的版本，可使用商城全部功能和独家的 AI 功能
 
+> 百度输入法 Android 版本合集：[下载地址](https://www.wandoujia.com/apps/35397/history)
+
 **IOS版 v12.2.0**
 
 > 第一个新增 **VIP 功能** 的版本，可使用商城全部功能和独家的 AI 功能
@@ -664,6 +684,8 @@
 > 第一个支持 **生成式 AI** 功能的版本，包括但不限于 AI 助手丶AI 皮肤
 
 > 第一个将 **Target API** 升级到 30 的版本，发布于 2023 年 11 月，[下载地址](https://pan.lanzout.com/iOVTf1v44wcf)
+
+> 讯飞输入法 Android 版本合集：[下载地址](https://www.wandoujia.com/apps/30113/history)
 
 **Windows版 v3.0.1727** <i class="fa fa-windows"></i>
 > 最后一个 **没有广告** 的版本，[下载地址](https://download.voicecloud.cn/200ime/iFlyIME_Setup3.0.1727.exe) 
@@ -722,6 +744,7 @@
 **Android版 v9.0.0** 
 > 第一个将 **Target API** 升级到 30 的版本
 
+> 网易云音乐 Android 版本合集：[下载地址](https://www.wandoujia.com/apps/293217/history)
 
 **IOS版 v4.1.2**
 > 最后一个没有 **视频入口** 的版本 
@@ -756,7 +779,9 @@
 > 2023 年 11 月 29 日，目前这个版本相对简洁，广告较少，较为推荐，以前的版本或多或少存在使用问题
 
 **Android版 v13.8.0.3** 
-> 第一个回归 **DTS 音效** 的版本，数年前因为协议到期而移除 
+> 第一个回归 **DTS 音效** 的版本，数年前因为协议到期而移除
+
+> QQ音乐 Android 版本合集：[下载地址](https://www.wandoujia.com/apps/280003/history)
 
 **IOS版 v9.3.0**
 > 最后一个 **无开屏广告且底栏简洁** 的版本
@@ -804,6 +829,8 @@
 
 > 第一个支持 **音乐魔法** 的版本，也即海报和视频分享，[下载地址 ](https://pan.lanzoui.com/ioBbY1r1t6ch)
 
+> 酷狗音乐 Android 版本合集：[下载地址](https://www.wandoujia.com/apps/34221/history)
+
 **IOS版 v10.4.5**
 > 第一个完美支持 **桌面歌词** 的版本，图标有活动标记
 
@@ -819,6 +846,8 @@
 
 **Android版 v9.5.4**  ![beiyong](https://gitee.com/ww3w/dzb/raw/master/icons/beiyong.svg)
 > 第一个将 **Target API** 升级到 30 的版本，发布于 2023 年 11 月，[下载地址 ](https://pan.lanzoui.com/iPIiz1r1dhhc)
+
+> 今日头条 Android 版本合集：[下载地址](https://www.wandoujia.com/apps/35609/history)
 
 **IOS版 v7.9.2**
 > 第一个完美适配 **深色模式** 的版本
@@ -872,6 +901,7 @@
 **Android版 v5.8.0** 
 > 第一个支持 **搜索工具栏** 的版本，现在可以在网页最下方随意切换其他搜索引擎了 
 
+> Via浏览器 Android 版本合集：[下载地址](https://www.wandoujia.com/apps/6609177/history)
 
 ### [![kuake](https://gitee.com/ww3w/dzb/raw/master/icons/kuake.svg)](https://www.quark.cn/) 夸克
 
@@ -888,6 +918,8 @@
 
 **Android版 v6.7.6.431**  ![beiyong](https://gitee.com/ww3w/dzb/raw/master/icons/beiyong.svg)
 > 第一个将 **Target API** 升级到 30 的版本，发布于 2023 年 12 月，[下载地址](https://pan.lanzoui.com/iBIgw1r1cozg)
+
+> 夸克 Android 版本合集：[下载地址](https://www.wandoujia.com/apps/7457948/history)
 
 **IOS版 v5.2.5**
 > 第一个可在夸克网盘添加 **磁力链接** 的版本 
@@ -915,7 +947,9 @@
 > 第一个支持 **车道级导航** 的版本
 
 **Android版 v11.11.1.2843** 
-> 第一个正式上线 **红绿灯倒计时** 功能的版本，发布于 2022 年 8 月 
+> 第一个正式上线 **红绿灯倒计时** 功能的版本，发布于 2022 年 8 月
+
+> 高德地图 Android 版本合集：[下载地址](https://www.wandoujia.com/apps/279993/history)
 
 **IOS版 v10.55.0**
 > 最后一个支持 **旧版语音** 的版本，没有团团丶可莉等自定义语音包，不能侧滑返回
@@ -940,6 +974,8 @@
 **Android版 v11.6.3**  ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg)
 > 最后一个 **没有广告** 的版本，[图文测评](https://mp.weixin.qq.com/s/z5JD35UdOL0wqJillnZqzA)，[下载地址](https://pan.lanzoui.com/iTqr71zz3m0h)
 
+> 百度网盘 Android 版本合集：[下载地址](https://www.wandoujia.com/apps/280851/history)
+
 **IOS版 v11.6.1**  ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg)
 > 与 Android版 11.6.3 的功能和特性基本一致，可使用爱思全能版直接下载，[图文测评](https://mp.weixin.qq.com/s/z5JD35UdOL0wqJillnZqzA)
 
@@ -955,6 +991,8 @@
 > 目前唯一的  **Target API 31**  的版本，其他版本 API 均小于等于 30
 
 > 基本没有广告，图标纯净，功能正常，[下载地址](https://pan.lanzoui.com/iOL7f1g2obbg)
+
+> 饿了么 Android 版本合集：[下载地址](https://www.wandoujia.com/apps/248063/history)
 
 **IOS版 v10.13.35**
 > 最后一个可以参加 **实时优惠活动** 的版本
@@ -974,6 +1012,8 @@
 **Android版 v8.8.24**  ![weixian](https://gitee.com/ww3w/dzb/raw/master/icons/weixian.svg)  
 > 此版本被工信部点名通报，通报理由：开屏信息窗口“乱跳转”，误导用户，[原文链接](https://www.miit.gov.cn/jgsj/xgj/gzdt/art/2024/art_a6f9db30756c4464804355afb64723ff.html)
 
+> 下厨房 Android 版本合集：[下载地址](https://www.wandoujia.com/apps/325999/history)
+
 
 ### [![alipay](https://gitee.com/ww3w/dzb/raw/master/iconsSE/alipay.svg)](https://www.alipay.com) 支付宝
 
@@ -992,6 +1032,8 @@
 > 第一个将 **Target API** 升级到 31 的版本，此前版本的 API 级别均小于等于 29
 
 > 这个版本发布于 2023 年 11 月，运行内存丶存储占用和耗电控制的相当合理，[下载地址](https://pan.lanzoui.com/iXCEE1r1qwbe)
+
+> 支付宝 Android 版本合集：[下载地址](https://www.wandoujia.com/apps/279979/history)
 
 **IOS版 v10.2.53** 
 
@@ -1023,6 +1065,8 @@
 **Android版 v10.30.0.4**  ![beiyong](https://gitee.com/ww3w/dzb/raw/master/icons/beiyong.svg)
 > 第一个将 **Target API** 升级到 33 的版本，图标有双 11 标志，[下载地址](https://pan.lanzoui.com/iRn1K1g2o7of)
 
+> 淘宝 Android 版本合集：[下载地址](https://www.wandoujia.com/apps/32267/history)
+
 **IOS版 v10.12.20** 
 > 最后一个首页商品详情页面没有 **瀑布流** 商品推荐的版本
 
@@ -1044,6 +1088,8 @@
 **Android版 v7.13.81**  ![beiyong](https://gitee.com/ww3w/dzb/raw/master/icons/beiyong.svg)  
 > 第一个将 **Target API** 升降到 33 的版本，[下载地址](https://pan.lanzoui.com/iZY821r1s3zg)
 
+> 闲鱼 Android 版本合集：[下载地址](https://www.wandoujia.com/apps/7456901/history)
+
 **IOS版 v7.14.20**  ![weixian](https://gitee.com/ww3w/dzb/raw/master/icons/weixian.svg)  
 > 此版本被 **工信部** 点名通报，通报理由：开屏信息窗口“乱跳转”，误导用户，[原文链接](https://www.miit.gov.cn/jgsj/xgj/gzdt/art/2024/art_a6f9db30756c4464804355afb64723ff.html)
 
@@ -1056,12 +1102,14 @@
 > 最后一个没有 **多多视频** 的版本 
 
 **Android版 v6.50.0**  ![weixian](https://gitee.com/ww3w/dzb/raw/master/icons/weixian.svg)
-> 最后一个利用 **提权漏洞** 的版本，至少从 6.48.0 版本就存在该问题了，同时，根据 [豌豆荚历史版本](https://www.wandoujia.com/apps/6649591/history?spm=aligames_platform_ug.wdj_seo.0.0.3e522e3b9Fbff9) 资料分析：6.32.0 及以前版本可能未利用该漏洞
+> 最后一个利用 **提权漏洞** 的版本，至少从 6.48.0 版本就存在该问题了
 
 > 由于 6.50.0 有多个小版本，这里特指 2023 年 03 月 05 日前更新的版本
 
 **Android版 v7.11.0**
 > @用户反馈 最后一个能看 **已关注店铺动态** 的版本
+
+> 拼多多 Android 版本合集：[下载地址](https://www.wandoujia.com/apps/6649591/history)
 
 **IOS版 v4.79.0** 
 >  最后一个没有 **直播功能** 的版本，同时也没有开屏广告，还有就是支持百亿补贴
@@ -1084,12 +1132,13 @@
 **Android版 v10.6.15**  ![beiyong](https://gitee.com/ww3w/dzb/raw/master/icons/beiyong.svg) 
 > 第一个将 **Target API** 升级到 33 的版本，[下载地址](https://pan.lanzout.com/i6fFy1v47m7i)
 
+> 什么值得买 Android 版本合集：[下载地址](https://www.wandoujia.com/apps/85645/history)
+
 **IOS版 v9.9.12**  ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg)
 > 最后一个支持 **单列卡片流** 的版本，后续版本升级为双列瀑布流
 
 **IOS版 v10.4.35** 
 > 第一个支持 **深色模式** 的版本 
-
 
 
 ### [![huya](https://gitee.com/ww3w/dzb/raw/master/icons/huya.svg)](https://www.huya.com/download) 虎牙直播
@@ -1103,6 +1152,8 @@
 > 能够领取粉丝团 **专属宝箱** 的最低版本，发布于 2020 年 09 月
 
 > 安装包大小 73.41M，[图片预览](https://gitee.com/ww3w/dzb/raw/master/icons/huyatp.jpg)，[下载地址](https://pan.lanzout.com/ifCvo0yu0zaf)
+
+> 虎牙直播 Android 版本合集：[下载地址](https://www.wandoujia.com/apps/2180653/history)
 
 **IOS版 v11.4.0** 
 > 第一个投屏限制清晰度的版本，也即超清，没有开屏广告
@@ -1139,7 +1190,7 @@
 **Android版 v27.4.0** ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg)
 > 第一个将 **Target API** 升级到 30 的版本，发布于 2023 年 10 月，[下载地址](https://pan.lanzoui.com/im4gQ1r1bdti)
 
-> 抖音 Android 版本合集：[下载地址](https://pan.lanzout.com/b0czwzfqb)
+> 抖音 Android 版本合集：[下载地址](https://www.wandoujia.com/apps/7461948/history)
 
 **IOS版 v16.5.0** 
 > 第一个支持 **倍速播放** 的版本
@@ -1157,6 +1208,8 @@
 
 **Android版 v11.11.10.34366**  ![tuijian](https://gitee.com/ww3w/dzb/raw/master/icons/tuijian.svg)
 > 第一个将 **Target API** 升级到 30 的版本，发布于 2023 年 12 月，[下载地址](https://pan.lanzoui.com/iFLmi1r1avef)
+
+> 快手 Android 版本合集：[下载地址](https://www.wandoujia.com/apps/280621/history)
 
 **IOS版 v8.0** 
 > 第一个在底部导航栏添加 **精选** 入口的版本，并移除了底栏的 **同城** 入口 
